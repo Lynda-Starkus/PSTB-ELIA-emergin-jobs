@@ -1,0 +1,41 @@
+{
+  "org": "PST&B — Paris School of Technology & Business",
+  "unit": "Laboratoire ELIA (emploi × IA) — indicateur CELIA",
+  "logo_text": "PST&B",
+  "palette": {
+    "violet": { "hex": "#6520ff", "usage": "primaire ELIA/CELIA (compétences)", "tint": "#f3edff", "border": "#ddd6fe", "wash": "#fbf9ff", "gradient_to": "#8a50ff" },
+    "rose": { "hex": "#ff1845", "usage": "accent chaud (employabilité / émergence)", "tint": "#fff0f3", "border": "#ffd1dc", "gradient_to": "#ff4a6c" },
+    "ink": { "hex": "#0f0f1a", "usage": "texte principal" },
+    "slate": { "hex": "#475569", "usage": "texte secondaire", "muted": "#64748b" },
+    "hairline": { "hex": "#e5e7eb", "usage": "filets, bordures" },
+    "status": {
+      "good": { "main": "#009B72", "soft": "#EAFBF2", "edge": "#8DF4B9" },
+      "warn": { "main": "#E08600", "soft": "#FFF6D8", "edge": "#F4C542" },
+      "critical": { "main": "#E00023", "soft": "#FFE7EA", "edge": "#FF9DAA" }
+    }
+  },
+  "palette_product_elia": {
+    "note": "Déclinaison observatoire, validée CVD/contraste (validator dataviz) sur surfaces light #fcfcfe et dark #131318.",
+    "light": { "emerging": "#e8103f", "rising": "#6520ff", "established": "#9ba1b7", "fading": "#ccd1de" },
+    "dark": { "emerging": "#f43b5c", "rising": "#8d6aff", "established": "#565d72", "fading": "#31364a" }
+  },
+  "fonts": {
+    "observed": "Inter / Segoe UI (sketch CELIA), sans-serif générique (site pstb.fr)",
+    "product_display": "Archivo (400–800)",
+    "product_mono": "Spline Sans Mono (400–600)",
+    "hosting": "Google Fonts",
+    "rationale": "Identité produit du laboratoire : grotesque incisive + mono data, en l'absence de charte typographique institutionnelle publiée."
+  },
+  "style_notes": [
+    "Pastille mono en capitales espacées pour le wordmark (CELIA → ELIA), fond tinté violet.",
+    "Violet = lecture compétences, rose/rouge = lecture marché : conservé dans l'observatoire (rose = émergence).",
+    "Fonds blancs, filets #e5e7eb, ombres très douces — matériaux clairs, denses en données.",
+    "Badges arrondis teintés (soft + texte accent) pour les états.",
+    "Site pstb.fr : fond blanc, navy/noir, sans-serif moderne — école « hybride tech & business »."
+  ],
+  "evidence": [
+    "c:/Users/belkessa/Desktop/PSTB_AI_jobs_impact_scoring/reports/livre_blanc_big4/sketches/web/celia_competences_employabilite_france_graph.svg",
+    "c:/Users/belkessa/Desktop/PSTB_AI_jobs_impact_scoring/reports/livre_blanc_big4/sketches/web/celia_competences_employabilite_france_graph.md",
+    "https://www.pstb.fr (fetch 2026-10-04)"
+  ]
+}

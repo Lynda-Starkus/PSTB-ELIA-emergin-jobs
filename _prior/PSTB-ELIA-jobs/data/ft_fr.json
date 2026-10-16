@@ -1,0 +1,496 @@
+{
+ "collected_at": "2026-10-04T18:03:16.703Z",
+ "api": "France Travail — Offres d'emploi v2",
+ "method": "comptage Content-Range par mots-clés d'intitulé (max. des termes)",
+ "results": {
+  "fde": {
+   "count": 9,
+   "count_31j": 9,
+   "terms": {
+    "Forward Deployed Engineer": 9
+   }
+  },
+  "fdse": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Forward Deployed Software Engineer": 0,
+    "FDSE": 0
+   }
+  },
+  "deployment_strategist": {
+   "count": 1,
+   "count_31j": 1,
+   "terms": {
+    "Deployment Strategist": 1
+   }
+  },
+  "solutions_architect_genai": {
+   "count": 1,
+   "count_31j": 1,
+   "terms": {
+    "Solutions Architect GenAI": 0,
+    "Architecte solutions GenAI": 1,
+    "Architecte GenAI": 1
+   }
+  },
+  "ai_sales_engineer": {
+   "count": 1,
+   "count_31j": 1,
+   "terms": {
+    "AI Sales Engineer": 0,
+    "Ingénieur avant-vente IA": 1,
+    "Pre-Sales Engineer IA": 0
+   }
+  },
+  "customer_engineer_ia": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Customer Engineer": 0,
+    "Customer Engineer IA": 0,
+    "AI Customer Success Engineer": 0
+   }
+  },
+  "ai_engineer": {
+   "count": 537,
+   "count_31j": 425,
+   "terms": {
+    "AI Engineer": 62,
+    "Ingénieur IA": 297,
+    "Ingénieur intelligence artificielle": 537
+   }
+  },
+  "mts": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Member of Technical Staff": 0
+   }
+  },
+  "ai_architect": {
+   "count": 48,
+   "count_31j": 41,
+   "terms": {
+    "AI Architect": 4,
+    "Architecte IA": 48,
+    "Enterprise AI Architect": 0
+   }
+  },
+  "finetuning_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Fine-tuning Engineer": 0,
+    "Ingénieur fine-tuning": 0,
+    "LLM Fine-tuning Engineer": 0
+   }
+  },
+  "rag_engineer": {
+   "count": 6,
+   "count_31j": 6,
+   "terms": {
+    "RAG Engineer": 4,
+    "Ingénieur RAG": 6,
+    "Retrieval Engineer": 1
+   }
+  },
+  "genai_engineer": {
+   "count": 22,
+   "count_31j": 19,
+   "terms": {
+    "Generative AI Engineer": 5,
+    "Ingénieur IA générative": 22,
+    "Ingénieur GenAI": 5
+   }
+  },
+  "agent_engineer": {
+   "count": 32,
+   "count_31j": 21,
+   "terms": {
+    "Agent Engineer": 32,
+    "Ingénieur agents IA": 19,
+    "AI Agent Engineer": 4
+   }
+  },
+  "ai_automation_engineer": {
+   "count": 11,
+   "count_31j": 10,
+   "terms": {
+    "AI Automation Engineer": 0,
+    "Ingénieur automatisation IA": 11,
+    "Automation Specialist IA": 0
+   }
+  },
+  "ai_product_manager": {
+   "count": 33,
+   "count_31j": 30,
+   "terms": {
+    "AI Product Manager": 3,
+    "Product Manager IA": 33,
+    "PM IA": 0
+   }
+  },
+  "ai_ux_designer": {
+   "count": 3,
+   "count_31j": 3,
+   "terms": {
+    "AI UX Designer": 2,
+    "Designer UX IA": 3,
+    "AI Experience Designer": 0
+   }
+  },
+  "conversation_designer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Conversation Designer": 0,
+    "Designer conversationnel": 0,
+    "Conversational UX Designer": 0
+   }
+  },
+  "ai_act_compliance_officer": {
+   "count": 2,
+   "count_31j": 2,
+   "terms": {
+    "AI Act Compliance Officer": 0,
+    "Responsable conformité AI Act": 2,
+    "AI Compliance Manager": 0
+   }
+  },
+  "resp_gouvernance_ia": {
+   "count": 2,
+   "count_31j": 2,
+   "terms": {
+    "AI Governance Lead": 0,
+    "Responsable gouvernance IA": 2,
+    "AI Governance Manager": 0
+   }
+  },
+  "ai_ethics_officer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Ethics Officer": 0,
+    "Référent éthique IA": 0,
+    "Responsible AI Officer": 0
+   }
+  },
+  "ai_risk_manager": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Risk Manager": 0,
+    "Risk Manager IA": 0,
+    "Model Risk Manager": 0
+   }
+  },
+  "llmops_engineer": {
+   "count": 6,
+   "count_31j": 5,
+   "terms": {
+    "LLMOps Engineer": 2,
+    "Ingénieur LLMOps": 6,
+    "GenAIOps Engineer": 0
+   }
+  },
+  "mlops_engineer": {
+   "count": 13,
+   "count_31j": 11,
+   "terms": {
+    "MLOps Engineer": 6,
+    "Ingénieur MLOps": 13,
+    "ML Platform Engineer": 0
+   }
+  },
+  "evals_engineer": {
+   "count": 1,
+   "count_31j": 1,
+   "terms": {
+    "Evals Engineer": 0,
+    "Ingénieur évals": 0,
+    "AI Evaluation Engineer": 1
+   }
+  },
+  "ai_research_scientist": {
+   "count": 3,
+   "count_31j": 3,
+   "terms": {
+    "AI Research Scientist": 0,
+    "Chercheur en IA": 3,
+    "Research Scientist": 1
+   }
+  },
+  "research_engineer": {
+   "count": 12,
+   "count_31j": 12,
+   "terms": {
+    "Research Engineer": 1,
+    "Ingénieur de recherche IA": 12,
+    "ML Research Engineer": 0
+   }
+  },
+  "ml_scientist": {
+   "count": 59,
+   "count_31j": 42,
+   "terms": {
+    "Machine Learning Scientist": 59,
+    "Scientifique machine learning": 6,
+    "Applied Scientist": 0
+   }
+  },
+  "prompt_engineer": {
+   "count": 4,
+   "count_31j": 3,
+   "terms": {
+    "Prompt Engineer": 4,
+    "Ingénieur prompt": 4,
+    "Prompt Designer": 0
+   }
+  },
+  "context_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Context Engineer": 0,
+    "Ingénieur contexte": 0,
+    "Context Engineering Specialist": 0
+   }
+  },
+  "data_annotation_lead": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Data Annotation Lead": 0,
+    "Responsable annotation de données": 0,
+    "Labeling Operations Lead": 0
+   }
+  },
+  "data_curator": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Data Curator": 0,
+    "Curateur de données": 0,
+    "Dataset Curator": 0
+   }
+  },
+  "synthetic_data_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Synthetic Data Engineer": 0,
+    "Ingénieur données synthétiques": 0,
+    "Synthetic Data Specialist": 0
+   }
+  },
+  "ai_trainer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Trainer": 0,
+    "Entraîneur de modèles IA": 0,
+    "Annotateur expert": 0
+   }
+  },
+  "knowledge_engineer": {
+   "count": 83,
+   "count_31j": 75,
+   "terms": {
+    "Knowledge Engineer": 0,
+    "Ingénieur de la connaissance": 83,
+    "Ontologiste": 0
+   }
+  },
+  "ai_transformation_consultant": {
+   "count": 53,
+   "count_31j": 43,
+   "terms": {
+    "AI Transformation Consultant": 0,
+    "Consultant transformation IA": 4,
+    "Consultant IA": 53
+   }
+  },
+  "genai_strategy_lead": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "GenAI Strategy Lead": 0,
+    "Lead stratégie IA générative": 0,
+    "Responsable stratégie GenAI": 0
+   }
+  },
+  "ai_enablement_lead": {
+   "count": 17,
+   "count_31j": 14,
+   "terms": {
+    "AI Enablement Lead": 0,
+    "Formateur IA": 17,
+    "Responsable enablement IA": 0
+   }
+  },
+  "ai_operations_manager": {
+   "count": 1,
+   "count_31j": 1,
+   "terms": {
+    "AI Operations Manager": 1,
+    "Responsable des opérations IA": 0,
+    "AI Ops Manager": 0
+   }
+  },
+  "caio": {
+   "count": 4,
+   "count_31j": 1,
+   "terms": {
+    "Chief AI Officer": 4,
+    "Directeur de l'IA (CAIO)": 0,
+    "CAIO": 0
+   }
+  },
+  "head_of_ai": {
+   "count": 162,
+   "count_31j": 132,
+   "terms": {
+    "Head of AI": 1,
+    "Responsable IA": 162
+   }
+  },
+  "vp_of_ai": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "VP of AI": 0,
+    "VP IA": 0,
+    "VP AI": 0
+   }
+  },
+  "ml_engineer": {
+   "count": 106,
+   "count_31j": 91,
+   "terms": {
+    "Machine Learning Engineer": 54,
+    "Ingénieur machine learning": 106
+   }
+  },
+  "inference_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Inference Engineer": 0,
+    "Ingénieur inférence": 0,
+    "LLM Serving Engineer": 0
+   }
+  },
+  "ai_infrastructure_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Infrastructure Engineer": 0,
+    "Ingénieur infrastructure IA": 0,
+    "GPU Infrastructure Engineer": 0
+   }
+  },
+  "ai_security_engineer": {
+   "count": 12,
+   "count_31j": 12,
+   "terms": {
+    "AI Security Engineer": 0,
+    "Ingénieur sécurité IA": 12,
+    "LLM Security Engineer": 0
+   }
+  },
+  "red_teamer_ia": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "AI Red Teamer": 0,
+    "Red Teamer IA": 0,
+    "AI Red Team Specialist": 0
+   }
+  },
+  "fullstack_developer": {
+   "count": 7,
+   "count_31j": 5,
+   "terms": {
+    "Full-Stack Developer": 7
+   }
+  },
+  "data_engineer": {
+   "count": 466,
+   "count_31j": 386,
+   "terms": {
+    "Data Engineer": 466
+   }
+  },
+  "data_scientist": {
+   "count": 125,
+   "count_31j": 89,
+   "terms": {
+    "Data Scientist": 125
+   }
+  },
+  "devops_engineer": {
+   "count": 142,
+   "count_31j": 107,
+   "terms": {
+    "DevOps Engineer": 142
+   }
+  },
+  "sre": {
+   "count": 2,
+   "count_31j": 2,
+   "terms": {
+    "Site Reliability Engineer": 2
+   }
+  },
+  "cybersecurity_engineer": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "Cybersecurity Engineer": 0
+   }
+  },
+  "product_manager": {
+   "count": 169,
+   "count_31j": 114,
+   "terms": {
+    "Product Manager": 169
+   }
+  },
+  "product_designer": {
+   "count": 19,
+   "count_31j": 16,
+   "terms": {
+    "Product Designer": 19
+   }
+  },
+  "engineering_manager": {
+   "count": 57,
+   "count_31j": 26,
+   "terms": {
+    "Engineering Manager": 57
+   }
+  },
+  "qa_engineer": {
+   "count": 10,
+   "count_31j": 6,
+   "terms": {
+    "QA Engineer": 10
+   }
+  },
+  "it_support_technician": {
+   "count": 0,
+   "count_31j": 0,
+   "terms": {
+    "IT Support Technician": 0
+   }
+  },
+  "sysadmin": {
+   "count": 2,
+   "count_31j": 1,
+   "terms": {
+    "System Administrator": 2
+   }
+  }
+ }
+}

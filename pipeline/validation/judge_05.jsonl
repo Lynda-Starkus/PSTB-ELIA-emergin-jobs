@@ -1,0 +1,50 @@
+{"k": 250, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Services d'IA et veille IA dans développement de services data"}
+{"k": 251, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 252, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Construit outils IA internes et automatisations avec LLM"}
+{"k": 253, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 254, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Poste marketing intitulé digital et IA"}
+{"k": 255, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "mlops_engineer", "note": "MLOps/LLMOps, cycle de vie des modèles d'IA"}
+{"k": 256, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 257, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "ML, GenAI, agents LLM, MLOps"}
+{"k": 258, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 259, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée seulement parmi outils fournis"}
+{"k": 260, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "ai_product_manager", "note": "IA seulement dans le titre; texte sur produits data"}
+{"k": 261, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Mention générique de candidats utilisant l'IA"}
+{"k": 262, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 263, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "PO/BA déploiement cas d'usage IA générative et RAG"}
+{"k": 264, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Data & AI engineer, GenAI, MLOps, agents IA"}
+{"k": 265, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 266, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Pilote transformation IA générative, agents, outils IA"}
+{"k": 267, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Industrialise et expose des modèles d'IA via API"}
+{"k": 268, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Architecte solutions GenAI, LLM, RAG, systèmes agentiques"}
+{"k": 269, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 270, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 271, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "Tech lead intégration IA générative et API de modèles"}
+{"k": 272, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 273, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 274, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 275, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Vend des agents IA aux PME et restaurateurs"}
+{"k": 276, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 277, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 278, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 279, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 280, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée parmi outils de la marque, présentation employeur"}
+{"k": 281, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "computer_vision_engineer", "note": "Segmentation d'images par IA et apprentissage profond"}
+{"k": 282, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Lead data scientist, modèles de prédiction et scoring"}
+{"k": 283, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée seulement dans présentation de l'employeur"}
+{"k": 284, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Génération de code assistée par IA, prompt engineering"}
+{"k": 285, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 286, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Outils IA appréciés comme compétence"}
+{"k": 287, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Anticiper l'intégration de l'IA dans applications collaboratives"}
+{"k": 288, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "Requêtes en langage naturel via IA générative et agents"}
+{"k": 289, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote engagé: métaphore, pas IA"}
+{"k": 290, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Data et SIG, aucune mention d'IA"}
+{"k": 291, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 292, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 293, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_engineer", "note": "Data engineer participant à des agents IA"}
+{"k": 294, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_governance", "note": "Déploiement Copilot, registre systèmes IA, gouvernance IA, PoC"}
+{"k": 295, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 296, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 297, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 298, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Plateforme avec IA embarquée citée parmi avantages réseau"}
+{"k": 299, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Formations IA et modèles d'IA cités, présentation employeur"}

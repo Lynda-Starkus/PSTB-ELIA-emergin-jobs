@@ -1,0 +1,50 @@
+{"k": 650, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA only in employer presentation"}
+{"k": 651, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Teaches clients to use ChatGPT and AI tools"}
+{"k": 652, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Deploys AI agents, LLM, Vertex AI"}
+{"k": 653, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": null, "note": "Develops and industrialises AI project, MLOps"}
+{"k": 654, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Postdoc on generative AI, NLP/LLM for ideation"}
+{"k": 655, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Platform with embedded AI tools for agent"}
+{"k": 656, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 657, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Builds GenAI, ML, LLM, RAG solutions"}
+{"k": 658, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "LLM means law degree"}
+{"k": 659, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Teaches clients to use ChatGPT and AI tools"}
+{"k": 660, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "chatgpt only in URL parameter"}
+{"k": 661, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 662, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Sells training including AI and AI agents"}
+{"k": 663, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Designs GenAI, LLM, agent, RAG solutions"}
+{"k": 664, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 665, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Sales lead specialised in AI solutions"}
+{"k": 666, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 667, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "ETL-focused, no AI mention"}
+{"k": 668, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 669, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 670, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 671, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Designs AI assistants and agents, Copilot Studio"}
+{"k": 672, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in operator presentation"}
+{"k": 673, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "head_of_ai", "note": "Leads data science, ML and GenAI solutions"}
+{"k": 674, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Sells training including AI and AI agents"}
+{"k": 675, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilotage is non-AI wording"}
+{"k": 676, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 677, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "AI reference architecture: LLM, RAG, agents"}
+{"k": 678, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 679, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Security architecture incl. protection of AI systems"}
+{"k": 680, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 681, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Predictive models and generative AI use cases"}
+{"k": 682, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote is a metaphor"}
+{"k": 683, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 684, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 685, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 686, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Cloud and agentic AI architecture, LangChain"}
+{"k": 687, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 688, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Identify AI use cases for customer centre"}
+{"k": 689, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 690, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 691, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "Product manager for AI-based photo software"}
+{"k": 692, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI as business tool for writing and analysis"}
+{"k": 693, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 694, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Advises on Azure services incl. generative AI"}
+{"k": 695, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 696, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 697, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Appetite for AI listed in profile"}
+{"k": 698, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Research on LLM, knowledge graphs, ML"}
+{"k": 699, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Builds LLM, agents and ML systems"}

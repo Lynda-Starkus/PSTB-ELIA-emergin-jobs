@@ -1,0 +1,160 @@
+1
+00:00:00,030 --> 00:00:02,990
+Que disent les offres des métiers émergents ?
+
+2
+00:00:03,030 --> 00:00:13,013
+On analyse +1 million d’offres d’emploi en France pour repérer les rôles
+qui apparaissent, se diffusent ou se recomposent avec l’IA.
+
+3
+00:00:13,053 --> 00:00:16,013
+Un vocabulaire nouveau apparaît dans les annonces.
+
+4
+00:00:16,053 --> 00:00:24,419
+L’archive longue sert à dater l’apparition des intitulés. Elle donne un
+point de comparaison pour chercher ensuite leurs traces dans les offres
+
+5
+00:00:24,459 --> 00:00:25,066
+françaises.
+
+6
+00:00:25,106 --> 00:00:28,066
+Le FDE : déployer l’IA chez le client.
+
+7
+00:00:28,106 --> 00:00:35,351
+Forward Deployed Engineer combine ingénierie et déploiement auprès des
+entreprises. Dans l’archive : 21 → 87 mentions sur deux années
+
+8
+00:00:35,391 --> 00:00:38,090
+comparées. En France : 9 résultats France Travail.
+
+9
+00:00:38,130 --> 00:00:41,090
+L’ingénierie IA concentre les annonces visibles.
+
+10
+00:00:41,130 --> 00:00:49,204
+537 résultats pour « Ingénieur IA », dont 425 publiés depuis 31 jours ou
+moins. Les agents IA comptent 32 résultats : la spécialisation est déjà
+
+11
+00:00:49,244 --> 00:00:51,120
+visible, à un volume plus modeste.
+
+12
+00:00:51,160 --> 00:00:53,875
+Le signal récent aide à lire la diffusion.
+
+13
+00:00:53,915 --> 00:00:59,962
+On passe aux offres publiées depuis 31 jours ou moins. Leur présence
+montre une demande récente ; plusieurs collectes comparables sont
+
+14
+00:01:00,002 --> 00:01:02,142
+nécessaires pour établir une tendance française.
+
+15
+00:01:02,182 --> 00:01:05,142
+Où apparaissent les besoins de recrutement ?
+
+16
+00:01:05,182 --> 00:01:12,767
+La carte situe la demande par région. Croiser territoires, employeurs et
+contenus d’offres aide à distinguer un rôle qui se diffuse d’un simple
+
+17
+00:01:12,807 --> 00:01:14,153
+changement de vocabulaire.
+
+18
+00:01:14,193 --> 00:01:17,153
+Un même rôle, plusieurs intitulés.
+
+19
+00:01:17,193 --> 00:01:27,320
+« Développeur IA » regroupe 23 annonces sous 11 variantes, dans trois
+sources. Ouvrir les exemples révèle les noms utilisés par les
+
+20
+00:01:27,360 --> 00:01:28,174
+recruteurs.
+
+21
+00:01:28,214 --> 00:01:31,174
+Agents, RAG, LLMOps : des tâches se recombinent.
+
+22
+00:01:31,214 --> 00:01:38,296
+Les annonces de Tech Lead IA mêlent agents conversationnels, intégration
+de modèles et exploitation. Le métier se définit par les tâches et les
+
+23
+00:01:38,336 --> 00:01:40,189
+compétences, au-delà du seul intitulé.
+
+24
+00:01:40,229 --> 00:01:43,189
+Le momentum favorise le déploiement de l’IA.
+
+25
+00:01:43,229 --> 00:01:51,332
+FDE, agents et infrastructure IA progressent dans l’archive
+internationale. Le ticker donne le taux de variation ; le volume
+
+26
+00:01:51,372 --> 00:01:55,206
+rappelle qu’une forte hausse peut partir d’une petite base.
+
+27
+00:01:55,246 --> 00:01:58,206
+Certains intitulés recrutent moins dans l’archive.
+
+28
+00:01:58,246 --> 00:02:07,294
+Annotation de données : −28,6 %. Chercheur en IA : −15,4 %. MLOps : −12
+%. Le recul d’un intitulé peut aussi signaler un déplacement vers
+
+29
+00:02:07,334 --> 00:02:09,218
+d’autres noms ou compétences.
+
+30
+00:02:09,258 --> 00:02:12,218
+Une fiche relie les noms aux compétences.
+
+31
+00:02:12,258 --> 00:02:20,693
+On recherche « Ingénieur IA », puis on ouvre sa fiche. Les alias,
+compétences et sources permettent d’enrichir le référentiel à mesure que
+
+32
+00:02:20,733 --> 00:02:22,228
+les rôles se stabilisent.
+
+33
+00:02:22,268 --> 00:02:24,736
+Le même observatoire, dans les deux modes.
+
+34
+00:02:24,776 --> 00:02:32,262
+Le bouton en haut à droite change le thème de toute la page, graphiques
+et fiches compris. Le choix est conservé pour la prochaine visite.
+
+35
+00:02:32,302 --> 00:02:35,262
+Repérer, comparer, puis confirmer.
+
+36
+00:02:35,302 --> 00:02:41,497
+Des métiers circulent déjà sous plusieurs noms. Les annonces révèlent
+des priorités de recrutement ; les tâches, la persistance et la
+
+37
+00:02:41,537 --> 00:02:44,356
+diversité des employeurs permettent de confirmer l’émergence.

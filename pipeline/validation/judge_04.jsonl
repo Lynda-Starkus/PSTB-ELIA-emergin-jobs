@@ -1,0 +1,50 @@
+{"k": 200, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 201, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Modèles de Machine Learning, data scientist"}
+{"k": 202, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ml_engineer", "note": "Ingénieur ML/IA, deep learning, IA agentique"}
+{"k": 203, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "IA générative pour rédiger textes SEO"}
+{"k": 204, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 205, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "IA appliquée au développement logiciel, atout souhaité"}
+{"k": 206, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 207, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 208, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 209, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 210, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 211, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 212, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Architecte infrastructure IA, GPU, LLM, IA générative"}
+{"k": 213, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "ITM AI est un nom d'enseigne"}
+{"k": 214, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "ai_product_manager", "note": "PO utilisant IA générative pour specs; produit non IA"}
+{"k": 215, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 216, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 217, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Backend dev avec pipeline IA multi-agents et API LLM"}
+{"k": 218, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Conseil cloud et AI Ops, plateformes IA"}
+{"k": 219, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 220, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 221, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 222, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 223, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 224, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote stratégique: métaphore, pas IA"}
+{"k": 225, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée parmi outils de la marque, présentation employeur"}
+{"k": 226, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Intégrer IA, assistants, analyse prédictive dans projets"}
+{"k": 227, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "head_of_ai", "note": "Pilote feuille de route IA, Copilot, IA générative"}
+{"k": 228, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Outils d'IA pour créer contenus de communication"}
+{"k": 229, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 230, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "Outil Python de traitement de données, pas d'IA"}
+{"k": 231, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "ITM AI est un nom d'enseigne"}
+{"k": 232, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "ai_sales", "note": "Vente IT généraliste incluant cas d'usage IA"}
+{"k": 233, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote stratégique: métaphore, pas IA"}
+{"k": 234, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Contenus assistés par IA générative et référencement GEO"}
+{"k": 235, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Intégration de modèles d'IA dans solutions industrielles"}
+{"k": 236, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "ITM AI est un nom d'enseigne"}
+{"k": 237, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Conception de solutions IA, NLP, machine learning"}
+{"k": 238, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 239, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 240, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 241, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Outils IA pour modélisation hydrogéologique requis"}
+{"k": 242, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 243, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 244, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Tech lead IA, développement d'agents IA avec Mistral"}
+{"k": 245, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 246, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Conçoit agents IA, IA générative, Copilot Studio"}
+{"k": 247, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Formateur en IA générative et prompting"}
+{"k": 248, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "AIPR est une habilitation, pas IA"}
+{"k": 249, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_engineer", "note": "Data engineering industriel, aucune mention d'IA"}

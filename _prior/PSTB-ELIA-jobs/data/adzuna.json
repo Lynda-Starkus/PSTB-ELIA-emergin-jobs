@@ -1,0 +1,281 @@
+{
+ "collected_at": "2026-10-04T19:32:21.753Z",
+ "calls": 117,
+ "global_count_ia": 12860,
+ "per_title": {
+  "fde": {
+   "count": 90
+  },
+  "fdse": {
+   "count": 3
+  },
+  "deployment_strategist": {
+   "count": 36
+  },
+  "solutions_architect_genai": {
+   "count": 0
+  },
+  "ai_sales_engineer": {
+   "count": 0
+  },
+  "customer_engineer_ia": {
+   "count": 0
+  },
+  "ai_engineer": {
+   "count": 347
+  },
+  "mts": {
+   "count": 4
+  },
+  "ai_architect": {
+   "count": 26
+  },
+  "finetuning_engineer": {
+   "count": 0
+  },
+  "rag_engineer": {
+   "count": 0
+  },
+  "genai_engineer": {
+   "count": 9
+  },
+  "agent_engineer": {
+   "count": 12
+  },
+  "ai_automation_engineer": {
+   "count": 3
+  },
+  "ai_product_manager": {
+   "count": 13
+  },
+  "ai_ux_designer": {
+   "count": 0
+  },
+  "conversation_designer": {
+   "count": 7
+  },
+  "ai_act_compliance_officer": {
+   "count": 0
+  },
+  "resp_gouvernance_ia": {
+   "count": 1
+  },
+  "ai_ethics_officer": {
+   "count": 0
+  },
+  "ai_risk_manager": {
+   "count": 2
+  },
+  "llmops_engineer": {
+   "count": 1
+  },
+  "mlops_engineer": {
+   "count": 35
+  },
+  "evals_engineer": {
+   "count": 0
+  },
+  "ai_research_scientist": {
+   "count": 3
+  },
+  "research_engineer": {
+   "count": 116
+  },
+  "ml_scientist": {
+   "count": 4
+  },
+  "prompt_engineer": {
+   "count": 4
+  },
+  "context_engineer": {
+   "count": 1
+  },
+  "data_annotation_lead": {
+   "count": 0
+  },
+  "data_curator": {
+   "count": 2
+  },
+  "synthetic_data_engineer": {
+   "count": 0
+  },
+  "ai_trainer": {
+   "count": 47
+  },
+  "knowledge_engineer": {
+   "count": 1
+  },
+  "ai_transformation_consultant": {
+   "count": 0
+  },
+  "genai_strategy_lead": {
+   "count": 0
+  },
+  "ai_enablement_lead": {
+   "count": 0
+  },
+  "ai_operations_manager": {
+   "count": 0
+  },
+  "caio": {
+   "count": 4
+  },
+  "head_of_ai": {
+   "count": 27
+  },
+  "vp_of_ai": {
+   "count": 1
+  },
+  "ml_engineer": {
+   "count": 131
+  },
+  "inference_engineer": {
+   "count": 9
+  },
+  "ai_infrastructure_engineer": {
+   "count": 0
+  },
+  "ai_security_engineer": {
+   "count": 1
+  },
+  "red_teamer_ia": {
+   "count": 1
+  }
+ },
+ "salary_ids": [
+  "ai_engineer",
+  "ml_engineer",
+  "research_engineer",
+  "fde",
+  "ai_trainer",
+  "deployment_strategist",
+  "mlops_engineer",
+  "head_of_ai",
+  "ai_architect",
+  "ai_product_manager",
+  "agent_engineer",
+  "genai_engineer"
+ ],
+ "companies": {
+  "fde": [
+   {
+    "name": "Accenture France",
+    "count": 3
+   },
+   {
+    "name": "ALTEN",
+    "count": 1
+   },
+   {
+    "name": "Onepoint",
+    "count": 1
+   },
+   {
+    "name": "Wavestone",
+    "count": 1
+   }
+  ],
+  "ai_engineer": [
+   {
+    "name": "Wavestone",
+    "count": 11
+   },
+   {
+    "name": "Onepoint",
+    "count": 10
+   },
+   {
+    "name": "Air Liquide",
+    "count": 7
+   },
+   {
+    "name": "Doctolib",
+    "count": 7
+   },
+   {
+    "name": "Accenture France",
+    "count": 6
+   }
+  ],
+  "agents": [
+   {
+    "name": "Alan Allman Associates",
+    "count": 17
+   },
+   {
+    "name": "Wavestone",
+    "count": 10
+   },
+   {
+    "name": "Onepoint",
+    "count": 9
+   },
+   {
+    "name": "Renault Group",
+    "count": 4
+   },
+   {
+    "name": "Domicile Clean",
+    "count": 4
+   }
+  ]
+ },
+ "locations": [
+  {
+   "name": "Ile-de-France, France",
+   "count": 3027
+  },
+  {
+   "name": "Auvergne-Rhône-Alpes, France",
+   "count": 1618
+  },
+  {
+   "name": "Occitanie, France",
+   "count": 982
+  },
+  {
+   "name": "Nouvelle-Aquitaine, France",
+   "count": 978
+  },
+  {
+   "name": "Grand-Est, France",
+   "count": 774
+  },
+  {
+   "name": "Hauts-De-France, France",
+   "count": 773
+  },
+  {
+   "name": "Provence-Alpes-Côte d'Azur, France",
+   "count": 677
+  },
+  {
+   "name": "Pays de la Loire, France",
+   "count": 639
+  },
+  {
+   "name": "Bretagne, France",
+   "count": 613
+  },
+  {
+   "name": "Normandie, France",
+   "count": 486
+  },
+  {
+   "name": "Bourgogne-Franche-Comté, France",
+   "count": 468
+  },
+  {
+   "name": "Centre, France",
+   "count": 383
+  },
+  {
+   "name": "DOM-TOM, France",
+   "count": 69
+  },
+  {
+   "name": "Corse, France",
+   "count": 44
+  }
+ ]
+}

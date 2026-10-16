@@ -1,0 +1,50 @@
+{"k": 300, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 301, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Conçoit agents IA Copilot Studio, RAG"}
+{"k": 302, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ml_engineer", "note": "Apprenti ML/data scientist, MLOps, IA générative"}
+{"k": 303, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Marketing digital avec volet IA en mission"}
+{"k": 304, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Support technique, pas d'IA"}
+{"k": 305, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Utilise ChatGPT, Claude pour workflows marketing"}
+{"k": 306, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Sécurité IA listée dans compétences"}
+{"k": 307, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Sensible enjeux IA, industrialisation modèles; manager IT"}
+{"k": 308, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "GenAI seulement dans formations employeur"}
+{"k": 309, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 310, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 311, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 312, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Intégrer outils IA générative en production graphique"}
+{"k": 313, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Assistant IA seulement dans avantage mutuelle"}
+{"k": 314, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Data management, pas d'IA"}
+{"k": 315, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_leader", "note": "Systèmes de recommandation sans mention IA explicite"}
+{"k": 316, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 317, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Outils IA inclus pour consultant recrutement"}
+{"k": 318, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_analyst", "note": "BI, aucune IA"}
+{"k": 319, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 320, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "IA = insémination artificielle"}
+{"k": 321, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA seulement dans présentation employeur"}
+{"k": 322, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote métaphorique"}
+{"k": 323, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Alternance conception solutions IA langage naturel, prédiction"}
+{"k": 324, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Thèse IA, apprentissage machine"}
+{"k": 325, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée dans présentation Thales seulement"}
+{"k": 326, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA seulement dans présentation employeur"}
+{"k": 327, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Avant-vente Data & IA, cas d'usage LLM/agents"}
+{"k": 328, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "IAM identité, pas IA"}
+{"k": 329, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Architecte IA générative, agents, Responsible AI"}
+{"k": 330, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Scénarios monitoring basés sur IA, secondaire"}
+{"k": 331, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote métaphorique"}
+{"k": 332, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "DevOps et intégration LLM/IA générative, titre IA"}
+{"k": 333, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA seulement dans présentation employeur"}
+{"k": 334, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "forward_deployed_engineer", "note": "Projets IA, LLM, agents; FDE"}
+{"k": 335, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 336, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 337, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Senior AI Engineer, coûts GenAI/FinOps"}
+{"k": 338, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Consultant IA, outils IA, LLM, architecture IA"}
+{"k": 339, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ml_engineer", "note": "ML engineer, IA générative, MLOps"}
+{"k": 340, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA seulement dans présentation employeur"}
+{"k": 341, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA citée comme outil du cabinet"}
+{"k": 342, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Doit utiliser assistants IA de codage"}
+{"k": 343, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Recherche apprentissage fédéré, IA de confiance"}
+{"k": 344, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 345, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Gouvernance données, pas d'IA"}
+{"k": 346, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}
+{"k": 347, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Projets amélioration process incluant IA"}
+{"k": 348, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "SI transport, pas d'IA"}
+{"k": 349, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Aucune mention d'IA"}

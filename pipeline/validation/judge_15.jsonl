@@ -1,0 +1,50 @@
+{"k": 750, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Leads AI projects: GenAI tools and agents for developers"}
+{"k": 751, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI listed among technical domains of role"}
+{"k": 752, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "IA & Data only in employer domains"}
+{"k": 753, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 754, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 755, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 756, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "ML/GenAI models, MLOps, agentic AI factory"}
+{"k": 757, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "No AI mention, test automation and dashboards"}
+{"k": 758, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 759, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Change management for AI transformation and adoption"}
+{"k": 760, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 761, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Recruiter gets AI tool"}
+{"k": 762, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "IAA is food industry acronym"}
+{"k": 763, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "AI processing of text and images with pretrained models"}
+{"k": 764, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Modernise accounting using AI, AI skills required"}
+{"k": 765, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 766, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 767, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 768, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_engineer", "note": "AI component only possible, mostly data work"}
+{"k": 769, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Designs AI agents, multimodal and multi-agent research"}
+{"k": 770, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Sells Nexora Business AI solution"}
+{"k": 771, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Platform tools including AI provided to agency head"}
+{"k": 772, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI knowledge a plus for data lake project"}
+{"k": 773, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Predictive modelling, daily AI use"}
+{"k": 774, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses AI tools daily for test lab"}
+{"k": 775, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Evaluates security of products including AI"}
+{"k": 776, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only as data-centre context"}
+{"k": 777, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "AI software engineer apprenticeship"}
+{"k": 778, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 779, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 780, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 781, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Clinical AI tool provided at the centre"}
+{"k": 782, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Cloud and agentic AI architecture, LangChain"}
+{"k": 783, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "Research on generative model security and AI systems"}
+{"k": 784, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "Tech lead for agents, RAG, LLMOps"}
+{"k": 785, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI tools proficiency a plus"}
+{"k": 786, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "AI strategy and transformation consulting"}
+{"k": 787, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "GenAI, LLM, RAG solution development"}
+{"k": 788, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 789, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 790, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "Product manager for GenAI and ML products"}
+{"k": 791, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 792, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "AI referent building and deploying AI solutions"}
+{"k": 793, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 794, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 795, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 796, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 797, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "AI agents, Copilot and MLOps consulting"}
+{"k": 798, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Deep learning and LLM pipelines"}
+{"k": 799, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}

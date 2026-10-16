@@ -1,0 +1,50 @@
+{"k":650,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"AI only in company boilerplate"}
+{"k":651,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Digital trainer; teaches ChatGPT-type tools among many topics"}
+{"k":652,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"agent_engineer","note":"AI engineer deploying AI agents infrastructure"}
+{"k":653,"is_tech":true,"ai_any":true,"ai_core":true,"canon":null,"note":"Develops and industrialises AI project, MLOps; title is Cognos"}
+{"k":654,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_researcher","note":"Postdoc on AI-assisted R&D idea generation tools"}
+{"k":655,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Platform with embedded AI offered as agent tool"}
+{"k":656,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":657,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"AI engineer consultant: generative AI, LLM, RAG, MLOps"}
+{"k":658,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":659,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Digital trainer; teaches ChatGPT-type tools among many topics"}
+{"k":660,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":661,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":662,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_sales","note":"Sells AI, AI agents and training solutions"}
+{"k":663,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Tech lead building LLM, RAG and AI agents"}
+{"k":664,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":665,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_sales","note":"Sales manager specialised in selling AI solutions"}
+{"k":666,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":667,"is_tech":true,"ai_any":false,"ai_core":false,"canon":"data_scientist","note":"Title data scientist but text is ETL only, no AI"}
+{"k":668,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":669,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":670,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":671,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"agent_engineer","note":"Designs AI assistants and agents in Copilot Studio, Claude"}
+{"k":672,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AI only in company boilerplate"}
+{"k":673,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_leader","note":"Leads data science team building ML and generative AI"}
+{"k":674,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_sales","note":"Sells AI, AI agents and training solutions"}
+{"k":675,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":676,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":677,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"Reference architectures for LLM, RAG, AI agents"}
+{"k":678,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":679,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Application security architect; AI protection is secondary"}
+{"k":680,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":681,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_scientist","note":"Data work with generative AI use cases as one task"}
+{"k":682,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"Copilot is only a metaphor"}
+{"k":683,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":684,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":685,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":686,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"Architect of cloud native and agentic AI solutions"}
+{"k":687,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":688,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Product discovery for call centre; AI opportunities one lens"}
+{"k":689,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":690,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":691,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_product_manager","note":"Product manager for AI features in photo software"}
+{"k":692,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"AI used as work tool for admin assistant"}
+{"k":693,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":694,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Azure cloud architect; generative AI only advisory topic"}
+{"k":695,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":696,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":697,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":698,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_researcher","note":"AI research scientist: knowledge graphs, LLM, GraphRAG"}
+{"k":699,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Builds LLM-based AI agents and ML in production"}

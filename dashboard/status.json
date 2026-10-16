@@ -1,0 +1,262 @@
+{
+ "headline": "15/10 : site = la page du zip, à l’identique, sur les nouvelles données ; figures de l’article et one-pager refaits (style revue)",
+ "phases": [
+  {
+   "name": "1 · Collecte des données",
+   "weight": 2,
+   "progress": 90,
+   "state": "running",
+   "tasks": [
+    {
+     "name": "France Travail — stock complet (476 868 offres, 4 389 appels API)",
+     "state": "done"
+    },
+    {
+     "name": "France Travail — dumps HuggingFace janv.–juin 2026 (601 213 offres)",
+     "state": "done"
+    },
+    {
+     "name": "Choisir le Service Public 2022–2026 (1 614 346 offres uniques)",
+     "state": "done"
+    },
+    {
+     "name": "Hacker News Who is hiring 2011–2026 (91 851 annonces)",
+     "state": "done"
+    },
+    {
+     "name": "Adzuna France — catégorie IT (11 895 annonces)",
+     "state": "done"
+    },
+    {
+     "name": "ROME 4.0 (14 301 appellations, compétences)",
+     "state": "done"
+    },
+    {
+     "name": "ESCO — hiérarchie des compétences (14 125 concepts)",
+     "state": "done"
+    },
+    {
+     "name": "Récolte quotidienne France Travail (tâche planifiée 03:30, enregistrée)",
+     "state": "done"
+    },
+    {
+     "name": "Common Crawl — reconstruction historique (HelloWork, Cadremploi, APEC, free-work)",
+     "state": "todo",
+     "note": "sondé : 1–5 k pages par crawl et par site"
+    },
+    {
+     "name": "Courriels JOCAS / CEDEFOP / Lightcast rédigés (dissemination/requests/)",
+     "state": "done"
+    }
+   ]
+  },
+  {
+   "name": "2 · Pipeline scientifique",
+   "weight": 3,
+   "progress": 85,
+   "state": "running",
+   "tasks": [
+    {
+     "name": "Schéma unifié + dédoublonnage (id, hash texte)",
+     "state": "done"
+    },
+    {
+     "name": "Lexique bilingue : périmètre tech, niveaux IA, titres canoniques",
+     "state": "done"
+    },
+    {
+     "name": "Classification FT (1 075 585) / CSP (1 614 346) / HN (91 851)",
+     "state": "done",
+     "note": "périmètre tech corrigé (bruit ROME) : 25 755 tech, 8 131 mentions IA, 1 096 IA dans l’intitulé"
+    },
+    {
+     "name": "Normalisation des intitulés par embeddings (GPU)",
+     "state": "todo"
+    },
+    {
+     "name": "Extraction de compétences (dictionnaire 10 familles) — 2e passe",
+     "state": "done"
+    },
+    {
+     "name": "Indice d’émergence v1 et stades de cycle de vie (emergence_index.csv)",
+     "state": "done"
+    },
+    {
+     "name": "Validation juge LLM (950/1 000, texte intégral) : mention IA précision 90 % / rappel 98 % (κ 0,86) ; tech 88 % / 92 % ; IA-titre 78 % / 96 % — 215 désaccords dans check_list_for_linda.xlsx",
+     "state": "done"
+    },
+    {
+     "name": "Intervalles de Wilson sur toutes les parts ; variante stricte de la mention IA testée",
+     "state": "done"
+    }
+   ]
+  },
+  {
+   "name": "3 · Article (TFSC, elsarticle)",
+   "weight": 3,
+   "progress": 85,
+   "state": "running",
+   "tasks": [
+    {
+     "name": "Moteur LaTeX opérationnel (Tectonic + elsarticle + booktabs)",
+     "state": "done"
+    },
+    {
+     "name": "Figures refaites selon les conventions de revue (Arial 7 pt, lettres de panneau, étiquettes directes, pas de titres ni de légendes encadrées) ; Figure 1 = dispositif d’étude dessiné à partir des données",
+     "state": "done"
+    },
+    {
+     "name": "Rédaction sections 1–7 (v0, macros de chiffres auto-générées)",
+     "state": "done"
+    },
+    {
+     "name": "Bibliographie (25 références, dont 4 TFSC)",
+     "state": "done"
+    }
+   ]
+  },
+  {
+   "name": "4 · One-pager presse (FR)",
+   "weight": 1,
+   "progress": 90,
+   "state": "todo",
+   "tasks": [
+    {
+     "name": "Maquette identité PST&B",
+     "state": "done"
+    },
+    {
+     "name": "Export PDF/PNG (dissemination/onepager/) — v0",
+     "state": "done"
+    }
+   ]
+  },
+  {
+   "name": "5 · Site web v2",
+   "weight": 2,
+   "progress": 85,
+   "state": "todo",
+   "tasks": [
+    {
+     "name": "Entrées régénérées depuis le lake dans les schémas du zip (France Travail, CSP, Adzuna, corpus 2,7 M intitulés)",
+     "state": "done"
+    },
+    {
+     "name": "Chaîne du zip relancée telle quelle (build_data → mine_discovery → build → outcomes → chapitres de la visite)",
+     "state": "done"
+    },
+    {
+     "name": "Page index.html du zip conservée à l’identique (7 scènes, thème, visite guidée) ; textes de la visite régénérés depuis les données",
+     "state": "done"
+    },
+    {
+     "name": "Contrôle headless : 0 erreur console, compteurs du bandeau, captures de chaque scène",
+     "state": "done"
+    }
+   ]
+  }
+ ],
+ "inputs": [
+  {
+   "q": "Pitch : option la plus riche (sources ouvertes + Common Crawl + demandes JOCAS/Lightcast)",
+   "a": "validé",
+   "state": "answered"
+  },
+  {
+   "q": "Revue cible : TFSC",
+   "a": "par défaut (non contesté)",
+   "state": "answered"
+  },
+  {
+   "q": "Courriels JOCAS / CEDEFOP / Lightcast à signer",
+   "a": "brouillons à venir dans dissemination/requests/",
+   "state": "open"
+  },
+  {
+   "q": "Validation par juge LLM, 200 items à vérifier par Linda",
+   "a": "validé",
+   "state": "answered"
+  },
+  {
+   "q": "ORCID, e-mail de correspondance, financement",
+   "a": "en attente",
+   "state": "open"
+  },
+  {
+   "q": "Charte PST&B officielle (logos, polices)",
+   "a": "en attente, brand.json utilisé",
+   "state": "open"
+  },
+  {
+   "q": "Vérifier 200 annonces (check_list_for_linda.xlsx) et commenter le site web / l’article v0",
+   "a": "en attente",
+   "state": "open"
+  }
+ ],
+ "log": [
+  {
+   "t": "14/10 20:10",
+   "msg": "Reconnaissance des sources terminée : FT 481 k, HF 601 k, CSP 2,6 M lignes, Adzuna 1,03 M, HN 92 k."
+  },
+  {
+   "t": "14/10 20:25",
+   "msg": "Plan v1 écrit (PLAN.md), récoltes lancées."
+  },
+  {
+   "t": "14/10 20:45",
+   "msg": "Commentaires de Linda intégrés : pas de TikZ, bourse des métiers, juge LLM, dashboard de supervision."
+  },
+  {
+   "t": "14/10 21:05",
+   "msg": "Récolte France Travail terminée : 476 868 offres uniques."
+  },
+  {
+   "t": "14/10 21:12",
+   "msg": "Classification terminée. FT 2026 : 27 608 offres tech, 13 464 mentions IA, 1 280 IA dans l’intitulé. CSP : mentions IA ×2,6 entre 2022 et 2026 (9,7 → 25,6 pour 10 000 offres). HN : 57,8 % des annonces mentionnent l’IA sur 12 mois."
+  },
+  {
+   "t": "14/10 21:12",
+   "msg": "Prime salariale brute (FT) : tech+IA médiane 48 k€ vs tech 38,5 k€ ; à confirmer par régression."
+  },
+  {
+   "t": "14/10 21:40",
+   "msg": "Figures v0 : séries HN 2011–2026, première apparition des intitulés, parts IA par secteur/région/contrat/taille, carte départementale, salaires et expérience, intitulés canoniques, secteur public."
+  },
+  {
+   "t": "14/10 21:40",
+   "msg": "Découverte d’intitulés : « applied AI engineer » (déc. 2024), « founding AI engineer » (déc. 2023), « AI product engineer » (janv. 2024) côté international ; « ingénieur IA agentique », « chef de projet IA », « formateur IA » côté France."
+  },
+  {
+   "t": "14/10 22:10",
+   "msg": "Validation ronde 2 (texte intégral) : la règle « mention IA » atteint 90 % de précision et 98 % de rappel ; les faux positifs restants sont des marques (ITM AI), « copilote » métaphorique et des mentions dans la présentation de l’employeur."
+  },
+  {
+   "t": "14/10 22:15",
+   "msg": "Article v0 compilé (elsarticle, TFSC), one-pager FR v0 exporté."
+  },
+  {
+   "t": "14/10 22:40",
+   "msg": "Article : 14 pages en mise en page revue (3p), 8 600 mots avec références et annexes ; chiffres injectés par macros (numbers.tex). À resserrer vers 7 pages."
+  },
+  {
+   "t": "14/10 22:45",
+   "msg": "Site web v2 : première version écrite (11 sections, D3, scrollytelling, Bourse des métiers, carte, explorateur, comparateur, baromètre)."
+  },
+  {
+   "t": "14/10 23:05",
+   "msg": "Site web v2 testé (0 erreur console, pas de débordement mobile) et publié en aperçu privé : https://claude.ai/artifact/CaXsnhprsdF1zcpYjXJToU"
+  },
+  {
+   "t": "14/10 23:05",
+   "msg": "PLAN.md section 10 : liste des livrables et limites connues de la v0."
+  },
+  {
+   "t": "15/10 08:30",
+   "msg": "Retour de Linda : pas de mise en page « IA », reprendre exactement la page du zip. Fait : website/index.html = page du zip ; données rebâties (FT 1 075 585, CSP 1 614 346, HN 91 660, Adzuna 8 633 offres IA) ; 19 chapitres de visite réécrits depuis les chiffres."
+  },
+  {
+   "t": "15/10 08:30",
+   "msg": "Figures de l’article refaites (11 figures, 600 dpi, PDF/PNG/SVG) ; Figure 1 remplace le schéma en boîtes ; one-pager A4 refait dans la langue visuelle du zip."
+  }
+ ]
+}

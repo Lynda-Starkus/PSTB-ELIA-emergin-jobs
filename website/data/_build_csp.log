@@ -1,0 +1,21 @@
+reading G:\Linda\Bureau\PSTB\ELIA\metiers-ia-emergents\data-lake\lake\csp_postings.parquet
+  1614346 rows, 17.4s
+lexical filter ...
+  1917 candidate AI rows, 27.8s
+  wrote G:\Linda\Bureau\PSTB\ELIA\metiers-ia-emergents\website\data\csp_monthly.json 27.8s
+  wrote G:\Linda\Bureau\PSTB\ELIA\metiers-ia-emergents\website\data\corpus_public.json 31.4s
+done in 33.7s
+=== build_csp.py : data-lake CSP -> website/data ===
+scanned   : 1614346
+matched   : 1917 (AI rows, all months)
+no_region : 56
+region rule (AI rows): dept=1825, localisation_code=19, localisation_name=0, lieu_postal_code=17, none=56
+AI rows per year (2022-01..2026-09): 2022=154  2023=248  2024=436  2025=607  2026=472 | window total=1917 | outside window=0
+top 5 regions (AI rows): 11 Ile-de-France=794, 28 Normandie=269, 53 Bretagne=134, 76 Occitanie=130, 84 Auvergne-Rhone-Alpes=127
+regions with AI rows  : 17 ( 11 24 27 28 32 44 52 53 75 76 84 93 01 02 03 04 06 )
+months    : 2022-01 -> 2026-09 (57 months)
+csp_monthly.json   : 3.0 KB
+corpus_public.json : 107.0 MB, 1614346 rows
+REGEX OK AI_LEX / AI_FALSE identical to tools/ingest_csp_regions.mjs
+SCHEMA OK csp_monthly.json  (keys: collected_at,source,scanned,matched,no_region,months,regions,total)
+SCHEMA OK corpus_public.json (keys: collected_at,csp,bpce,notes; notes is a string per SPEC_DATA.md, the reference holds a list of log lines)

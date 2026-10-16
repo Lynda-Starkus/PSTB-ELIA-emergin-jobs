@@ -1,0 +1,50 @@
+{"k":600,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Agency tools integrating AI offered to agents"}
+{"k":601,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Data and AI engineer: RAG, sovereign AI agents"}
+{"k":602,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":603,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_engineer","note":"Data engineer; AI only listed among data disciplines"}
+{"k":604,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"AI development engineer apprenticeship"}
+{"k":605,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":606,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Research software engineer; AI/ML one expertise among many"}
+{"k":607,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"ITM AI is a company name"}
+{"k":608,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"AI product architect for ministerial generative AI platform"}
+{"k":609,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":610,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":611,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_trainer","note":"Trains companies on ChatGPT, Copilot, AI agents"}
+{"k":612,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"AI apprenticeship at Météo-France; AI in title"}
+{"k":613,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Tech lead AI and agentic solutions"}
+{"k":614,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":615,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":616,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Grant writer; AI just one covered theme"}
+{"k":617,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"AI only in company boilerplate"}
+{"k":618,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"genai_engineer","note":"RAG retrieval, embeddings, vector databases for LLMs"}
+{"k":619,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AI only in company boilerplate"}
+{"k":620,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_consultant","note":"Data and AI consulting manager, trusted AI, AI factories"}
+{"k":621,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"Data scientist in AI business unit"}
+{"k":622,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_trainer","note":"Teaches and runs MSc in Artificial Intelligence"}
+{"k":623,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Apprentice in A.I. Operations: generative, agentic AI"}
+{"k":624,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":625,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Platform with embedded AI offered as agent tool"}
+{"k":626,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"AI transformation project lead: AI processes, use cases"}
+{"k":627,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":628,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"Support technician; AI only describes employer's products"}
+{"k":629,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"Data and AI architect: GenAI, agent systems"}
+{"k":630,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":631,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Tech lead Python/AI, AI agents and LLM expert role"}
+{"k":632,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Entrepreneurship adviser; AI half of title, unclear tasks"}
+{"k":633,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":634,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":635,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_product_manager","note":"Product owner of generative AI products"}
+{"k":636,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":637,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":638,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":639,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_consultant","note":"Data science and AI consultant in AI business unit"}
+{"k":640,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":641,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_analyst","note":"Data analyst; solutions based on data and AI minor"}
+{"k":642,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_governance","note":"Cyber consultant with AI governance, AI Act compliance"}
+{"k":643,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_trainer","note":"Teaches machine learning and deep learning"}
+{"k":644,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":645,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"No AI mention"}
+{"k":646,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"head_of_ai","note":"Heads the AI and data resource centre"}
+{"k":647,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_trainer","note":"Teaches AI for marketing and sales"}
+{"k":648,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"Project manager; AI only in employer's product context"}
+{"k":649,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"PMO steering AI and data science project portfolio"}

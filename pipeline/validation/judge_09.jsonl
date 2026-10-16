@@ -1,0 +1,50 @@
+{"k": 450, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "Statistical models only, no AI/ML mention"}
+{"k": 451, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Manages AI initiatives, agent PoCs, AI roadmap"}
+{"k": 452, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 453, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 454, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Integrates generative AI, builds AI agents"}
+{"k": 455, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 456, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Research data science: optimization and machine learning"}
+{"k": 457, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Only profile appetence for digital and AI"}
+{"k": 458, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 459, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_engineer", "note": "Builds data pipelines feeding AI models"}
+{"k": 460, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "AI engineer building machine learning solutions"}
+{"k": 461, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Administers platform for machine learning experiments"}
+{"k": 462, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "AI is only company nickname AItiens"}
+{"k": 463, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 464, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "AI mentioned only as not used in hiring"}
+{"k": 465, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "Survey statistics, no AI mention"}
+{"k": 466, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer's innovative domains"}
+{"k": 467, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI among teaching/research domains, signal/image focus"}
+{"k": 468, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 469, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 470, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 471, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Robotics only, no AI"}
+{"k": 472, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 473, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Copilot listed among Microsoft tools to manage"}
+{"k": 474, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 475, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_engineer", "note": "Lakehouse engineering using Genie, LLMs, AI-assisted dev"}
+{"k": 476, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 477, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 478, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer mission statement"}
+{"k": 479, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 480, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Promotes and governs AI coding tools usage, test automation"}
+{"k": 481, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_researcher", "note": "AI scientist, machine learning research for signal"}
+{"k": 482, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 483, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in Thales presentation"}
+{"k": 484, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 485, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Solution architect generative AI and agents"}
+{"k": 486, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Initiates clients to AI tools like ChatGPT"}
+{"k": 487, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Interest in AI and Claude for code generation"}
+{"k": 488, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 489, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "ai_other", "note": "Creates visuals and videos with generative AI tools"}
+{"k": 490, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 491, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer presentation"}
+{"k": 492, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Building architecture, no AI"}
+{"k": 493, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 494, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 495, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "IA means artificial insemination in pig farming"}
+{"k": 496, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 497, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in firm's general context statement"}
+{"k": 498, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI listed among things to test and improve"}
+{"k": 499, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI solutions among tools provided to recruiters"}

@@ -1,0 +1,50 @@
+{"k":250,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"ingénieur optronique, aucune IA visible"}
+{"k":251,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":252,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"AI Builder: outils IA internes, automatisations, LLM"}
+{"k":253,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":254,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"marketing digital avec volet intelligence artificielle"}
+{"k":255,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"mlops_engineer","note":"MLOps/LLMOps, cycle de vie modèles IA"}
+{"k":256,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"assistant PMO DSI, aucune IA"}
+{"k":257,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"data scientist/AI engineer, ML, GenAI, agents LLM"}
+{"k":258,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":259,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"outils IA fournis parmi les outils du consultant"}
+{"k":260,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"PO data platform, IA seulement dans le titre"}
+{"k":261,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":262,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":263,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_product_manager","note":"PO/BA plateforme RAG, centre de compétences IA"}
+{"k":264,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Data & AI engineer, industrialisation IA et GenAI"}
+{"k":265,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":266,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"chef de projet IA générative, change management IA"}
+{"k":267,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"développeur IA chez éditeur, service Innovation"}
+{"k":268,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"architecte IA générative et agentique"}
+{"k":269,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":270,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":271,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"genai_engineer","note":"tech lead Java sur projets d'IA générative"}
+{"k":272,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":273,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":274,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":275,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_sales","note":"apporteur d'affaires vendant des agents IA"}
+{"k":276,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":277,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":278,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"agent de sécurité, aucune IA"}
+{"k":279,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":280,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citée parmi les outils de la marque"}
+{"k":281,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"algorithmes de segmentation, IA/ML non nommée"}
+{"k":282,"is_tech":true,"ai_any":false,"ai_core":false,"canon":"data_scientist","note":"modèles prédictifs, aucun terme IA/ML explicite"}
+{"k":283,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"UX researcher, aucune IA"}
+{"k":284,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"alternant dev utilisant génération de code assistée IA"}
+{"k":285,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":286,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":287,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"anticiper l'intégration de l'IA dans apps collaboratives"}
+{"k":288,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"genai_engineer","note":"ingénieur développeur IA générative"}
+{"k":289,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"copilote = métaphore, pas d'IA"}
+{"k":290,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":291,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":292,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":293,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_engineer","note":"stage data engineer, participe à des agents IA"}
+{"k":294,"is_tech":false,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"déploiement Copilot, registre des systèmes d'IA, PoC"}
+{"k":295,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":296,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":297,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":298,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"plateforme métier avec IA embarquée parmi outils"}
+{"k":299,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"cybersécurité OT, compréhension des modèles d'IA citée"}

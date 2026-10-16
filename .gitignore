@@ -1,0 +1,11 @@
+data-lake/
+tmp/
+.venv/
+__pycache__/
+*pyc
+node_modules/
+.env
+.env.*
+.tmp/
+
+

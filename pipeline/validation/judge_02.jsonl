@@ -1,0 +1,50 @@
+{"k": 100, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer presentation"}
+{"k": 101, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "builds RAG and LLM agentic tools"}
+{"k": 102, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 103, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 104, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "uses LLMs and AI in tasks"}
+{"k": 105, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "technical lead for company AI integration"}
+{"k": 106, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 107, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "leads AI projects, AI agents for developers"}
+{"k": 108, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 109, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 110, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "data and AI team tools; Thales AI presentation"}
+{"k": 111, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "manages AI chatbot, uses AI to automate"}
+{"k": 112, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 113, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "facilities technical director, no AI"}
+{"k": 114, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 115, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "RAG, generative AI, chatbot development"}
+{"k": 116, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in brand positioning"}
+{"k": 117, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 118, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 119, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "architect for GenAI cost/FinOps platforms"}
+{"k": 120, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "copilote is metaphor"}
+{"k": 121, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 122, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "predictive modelling and ML"}
+{"k": 123, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "drives Gemini genAI adoption; mainly Workspace product"}
+{"k": 124, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 125, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 126, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 127, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_analyst", "note": "GenAI assistant, LLM use cases on data"}
+{"k": 128, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 129, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "GenAI assistant product management"}
+{"k": 130, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI integrated tools offered to agents"}
+{"k": 131, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 132, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "appetence for AI and AI agents required"}
+{"k": 133, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 134, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_leader", "note": "selects Agentic AI tools for master data"}
+{"k": 135, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "consulting on data and AI strategy, genAI"}
+{"k": 136, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_analyst", "note": "AI tech watch among tasks"}
+{"k": 137, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "deploys genAI, LLM and agent platforms"}
+{"k": 138, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 139, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 140, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 141, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "uses AI to optimise prospecting"}
+{"k": 142, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "integrating AI solutions on machines"}
+{"k": 143, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "presales includes Copilot AI offering"}
+{"k": 144, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "project uses AI technologies; test automation role"}
+{"k": 145, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "develops genAI tools, leads AI squad"}
+{"k": 146, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}
+{"k": 147, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI applied to management in training catalogue"}
+{"k": 148, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Data & AI only in employer presentation"}
+{"k": 149, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "no AI reference"}

@@ -1,0 +1,128 @@
+{
+  "url": "http://127.0.0.1:61916/deliverables/elia-scrollytelling.html",
+  "theme": "dark",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "tour_seconds": 164.638,
+  "trim_start": 0.52,
+  "trim_calibration": "first frame after sync marker",
+  "subtitle_cues": 33,
+  "subtitles": "deliverables\\elia-visite-guidee-v2.srt",
+  "first_frame_preview": "deliverables\\elia-visite-guidee-v2-apercus\\video-premiere-image.png",
+  "first_frame_rgb": [
+    8,
+    18,
+    10
+  ],
+  "first_frame_marker_absent": true,
+  "chapters": [
+    {
+      "index": 0,
+      "seconds": 0.025
+    },
+    {
+      "index": 1,
+      "seconds": 8.04
+    },
+    {
+      "index": 2,
+      "seconds": 15.068
+    },
+    {
+      "index": 3,
+      "seconds": 23.08
+    },
+    {
+      "index": 4,
+      "seconds": 34.094
+    },
+    {
+      "index": 5,
+      "seconds": 42.108
+    },
+    {
+      "index": 6,
+      "seconds": 52.124
+    },
+    {
+      "index": 7,
+      "seconds": 62.129
+    },
+    {
+      "index": 8,
+      "seconds": 74.163
+    },
+    {
+      "index": 9,
+      "seconds": 86.343
+    },
+    {
+      "index": 10,
+      "seconds": 97.365
+    },
+    {
+      "index": 11,
+      "seconds": 107.366
+    },
+    {
+      "index": 12,
+      "seconds": 118.387
+    },
+    {
+      "index": 13,
+      "seconds": 128.419
+    },
+    {
+      "index": 14,
+      "seconds": 138.412
+    },
+    {
+      "index": 15,
+      "seconds": 147.435
+    },
+    {
+      "index": 16,
+      "seconds": 154.428
+    }
+  ],
+  "screenshots": [
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-01.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-02.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-03.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-04.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-05.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-06.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-07.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-08.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-09.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-10.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-11.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-12.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-13.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-14.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-15.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-16.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\chapitre-17.png",
+    "deliverables\\elia-visite-guidee-v2-apercus\\conclusion.png"
+  ],
+  "browser_errors": [],
+  "video": "deliverables\\elia-visite-guidee-v2.mp4",
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "25/1"
+      }
+    ],
+    "format": {
+      "duration": "164.640000",
+      "size": "23372479"
+    }
+  }
+}

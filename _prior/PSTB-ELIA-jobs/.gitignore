@@ -1,0 +1,8 @@
+.env
+.cache/
+.check*.js
+node_modules/
+dist/
+
+data/corpus_public.json
+deploy.zip

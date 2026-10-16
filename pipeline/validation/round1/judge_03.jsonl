@@ -1,0 +1,50 @@
+{"k": 150, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "développeur IA agentique et générative, SDK"}
+{"k": 151, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 152, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 153, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 154, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 155, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "copilote est une métaphore"}
+{"k": 156, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 157, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "mlops_engineer", "note": "MLOps et infrastructure IA, modèles d'IA"}
+{"k": 158, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 159, "is_tech": true, "ai_any": true, "ai_core": false, "canon": "data_analyst", "note": "explore usages de l'IA pour l'analyse"}
+{"k": 160, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 161, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 162, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 163, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "copilote est une métaphore"}
+{"k": 164, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 165, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 166, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 167, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "plateforme métier avec IA embarquée"}
+{"k": 168, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 169, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "vend un logiciel IA de recrutement parmi d'autres offres"}
+{"k": 170, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_product_manager", "note": "product owner IA, modèles ML/LLM"}
+{"k": 171, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_product_manager", "note": "PO IA générative, agents IA bancaires"}
+{"k": 172, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "consultant Cloud Platform et AI Ops"}
+{"k": 173, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "intégration de ressources IA dans les cours"}
+{"k": 174, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "IA seulement dans description des agences"}
+{"k": 175, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 176, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "consultant stratégie Data et IA, AI Builders"}
+{"k": 177, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "déploiement LLM, RAG, AI Products"}
+{"k": 178, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 179, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 180, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 181, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 182, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 183, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "scrum master dans entité IA de défense"}
+{"k": 184, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 185, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 186, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 187, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 188, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "solutions de l'employeur basées sur l'IA, contexte"}
+{"k": 189, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "IA dans la roadmap technologique du CTO"}
+{"k": 190, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "développeur IA, intégration IA au codage"}
+{"k": 191, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "ingénieur IA générative, LLM, RAG, agents"}
+{"k": 192, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 193, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "senior AI consultant, presales IA"}
+{"k": 194, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "support IA, infrastructure GPU, Lab IA"}
+{"k": 195, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "IA générative citée parmi technologies projets"}
+{"k": 196, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "formations IA parmi bureautique et Adobe"}
+{"k": 197, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 198, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 199, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "IAM n'est pas IA; IA seulement employeur"}

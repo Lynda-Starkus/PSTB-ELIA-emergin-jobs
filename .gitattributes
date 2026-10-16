@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+website/data/corpus_ft.json filter=lfs diff=lfs merge=lfs -text
+website/data/corpus_public.json filter=lfs diff=lfs merge=lfs -text
+website/data/*.json filter=lfs diff=lfs merge=lfs -text

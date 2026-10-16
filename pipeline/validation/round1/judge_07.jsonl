@@ -1,0 +1,50 @@
+{"k":350,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"developpeur firmware, aucune IA"}
+{"k":351,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citee parmi les outils offerts au franchise"}
+{"k":352,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":353,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":354,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":355,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"AI engineer, LLM, systemes multi-agents"}
+{"k":356,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":357,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":358,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_scientist","note":"modeles predictifs, volet IA innovation secondaire"}
+{"k":359,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"conception ASIC/accelerateurs d'inference IA embarquee"}
+{"k":360,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":361,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":362,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"plateforme metier avec IA embarquee fournie"}
+{"k":363,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":364,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_other","note":"pilote deploiement et gouvernance IA generative Copilot"}
+{"k":365,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":366,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citee dans un sujet d'apprentissage parmi d'autres"}
+{"k":367,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"data scientist expert IA agentique, MLOps, GenAI"}
+{"k":368,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":369,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"architecte solutions Gen/Agentic IA"}
+{"k":370,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":371,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA visible"}
+{"k":372,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":373,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AI = initiales de l'entreprise, pas intelligence artificielle"}
+{"k":374,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citee parmi les outils offerts au franchise"}
+{"k":375,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"developpeur IA, algorithmes de machine learning"}
+{"k":376,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":377,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":378,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AIR FRANCE, pas d'IA"}
+{"k":379,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"contribue aux initiatives liees a l'IA, mention ponctuelle"}
+{"k":380,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_researcher","note":"R&D en IA, machine learning, deep learning"}
+{"k":381,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_engineer","note":"IA citee en intro communaute data, poste Snowflake"}
+{"k":382,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"modeles ML de recommandation, industrialisation"}
+{"k":383,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":384,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_sales","note":"avant-vente Data et IA"}
+{"k":385,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_product_manager","note":"product manager IA, pilote initiatives IA"}
+{"k":386,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"modeles ML, prototypes d'intelligence artificielle"}
+{"k":387,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"IA seulement dans le nom du centre d'excellence"}
+{"k":388,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA visible"}
+{"k":389,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"vente IT, appetence data et IA requise"}
+{"k":390,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":391,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":392,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":393,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"exploite l'IA pour outils de restitution RH"}
+{"k":394,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":395,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":396,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":397,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":398,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA visible"}
+{"k":399,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA visible"}

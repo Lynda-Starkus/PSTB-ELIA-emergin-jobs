@@ -1,0 +1,50 @@
+{"k": 600, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Real estate tools integrating AI offered"}
+{"k": 601, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Builds RAG architectures and sovereign AI agents"}
+{"k": 602, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 603, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": "data_engineer", "note": "IA only in generic data community intro"}
+{"k": 604, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Implements LLM-based AI agent features"}
+{"k": 605, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 606, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI/ML expertise among research software duties"}
+{"k": 607, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "ITM AI is a brand name"}
+{"k": 608, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Architect of GenAI product for ministry"}
+{"k": 609, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Stack lists ChatGPT, Claude, Cursor AI tools"}
+{"k": 610, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Interest in AI tools listed as requirement"}
+{"k": 611, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Trains companies on ChatGPT, Copilot, Gemini"}
+{"k": 612, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "AI apprenticeship at weather service, title only"}
+{"k": 613, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Builds genAI solutions and multi-agent systems"}
+{"k": 614, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 615, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI used only for recruitment prequalification"}
+{"k": 616, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Writes R&D reports on IT and AI topics"}
+{"k": 617, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "Data and AI only in consultancy presentation"}
+{"k": 618, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "RAG retrieval, embeddings, vector databases pipelines"}
+{"k": 619, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer R&D blurb"}
+{"k": 620, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Data and AI consulting manager, AI factories"}
+{"k": 621, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "AI strategy, governance, AI Act consulting"}
+{"k": 622, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Runs and teaches MSc in AI"}
+{"k": 623, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Builds genAI assistant and agentic AI features"}
+{"k": 624, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 625, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Platform with embedded AI offered as tool"}
+{"k": 626, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Designs AI processes, prototypes, prompting guides"}
+{"k": 627, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI skills listed as plus"}
+{"k": 628, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 629, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Designs data and GenAI agent architectures"}
+{"k": 630, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 631, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Tech Lead Python/AI with AI agents and LLM"}
+{"k": 632, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses AI tools to advise entrepreneurs"}
+{"k": 633, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 634, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 635, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "Product owner for generative AI products"}
+{"k": 636, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 637, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 638, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 639, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Builds ML, deep learning and genAI models"}
+{"k": 640, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 641, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_analyst", "note": "BI dashboards, some data and AI solutions"}
+{"k": 642, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_governance", "note": "AI governance, AI Act compliance consulting"}
+{"k": 643, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Teaches machine learning and deep learning"}
+{"k": 644, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Interest in AI applications for HR"}
+{"k": 645, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 646, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "head_of_ai", "note": "Heads AI and data resource centre"}
+{"k": 647, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Teaches AI for marketing and sales"}
+{"k": 648, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer presentation"}
+{"k": 649, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "PMO of AI projects portfolio; not building AI"}

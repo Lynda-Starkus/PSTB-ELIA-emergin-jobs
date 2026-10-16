@@ -1,0 +1,31 @@
+/* Guided annotations only. Claude's original page styles remain unchanged. */
+.elia-dock{position:fixed;right:24px;bottom:22px;z-index:86;display:flex;gap:8px;font-size:13px}
+.elia-dock button,.tour-controls button{background:var(--night-2);color:var(--ink-n);border:1px solid var(--hair-n);padding:10px 15px;border-radius:24px}
+.tour-overlay[hidden]{display:none}
+.tour-caption{position:fixed;z-index:98;top:76px;right:52px;width:520px;max-width:calc(100vw - 36px);padding:20px 24px;background:var(--night-2);color:var(--ink-n);border:1px solid var(--hair-n);border-left:4px solid var(--rose);box-shadow:0 8px 28px #0002;opacity:0;transform:translateY(-14px);transition:opacity .35s ease,transform .5s cubic-bezier(.2,.7,.2,1);pointer-events:none}
+.tour-caption.visible{opacity:1;transform:none}
+.tour-caption h2{font-family:var(--disp);font-size:34px;line-height:1.12;letter-spacing:-.025em;font-weight:700;margin:0 0 10px;text-wrap:balance;color:inherit}
+#tour-body{font-family:var(--txt);font-size:26px;line-height:1.25;margin:0;color:var(--ink-n2)}
+#tour-source{font-family:var(--txt);font-size:14px;line-height:1.35;margin:12px 0 0;color:var(--muted-n)}
+#tour-body:empty,#tour-source:empty{display:none}
+.tour-on-paper .tour-caption{background:var(--surface);color:var(--ink);border-color:var(--hair);border-left-color:var(--rose-l)}
+.tour-on-paper #tour-body{color:var(--ink-2)}
+.tour-on-paper #tour-source{color:var(--muted)}
+.tour-drawer .tour-caption{right:480px}
+.tour-controls{position:fixed;right:24px;bottom:22px;z-index:99;display:flex;gap:8px;align-items:center;font-size:13px}
+.tour-controls .tour-time{font-variant-numeric:tabular-nums;color:var(--ink-2);background:var(--paper);padding:8px 12px;border-radius:20px}
+.tour-active .elia-dock{visibility:hidden}
+.tour-show-theme .elia-dock{visibility:visible}
+.tour-recording .tour-controls{display:none}
+#tour-cursor{position:fixed;z-index:101;pointer-events:none;opacity:0;transform:translate(-5px,-3px);transition:left .65s cubic-bezier(.2,.7,.2,1),top .65s cubic-bezier(.2,.7,.2,1),opacity .2s}
+#tour-cursor.active{opacity:1}
+#tour-cursor svg{width:25px;height:32px;filter:drop-shadow(0 2px 3px #0005)}
+#tour-cursor i{position:absolute;left:-17px;top:-17px;width:40px;height:40px;border:2px solid var(--rose);border-radius:50%;opacity:0}
+#tour-cursor.click i{animation:tour-click .7s ease-out}
+@keyframes tour-click{0%{opacity:1;transform:scale(.3)}100%{opacity:0;transform:scale(1.8)}}
+.tour-target{outline:2px solid var(--rose);outline-offset:5px}
+:root[data-theme="light"]{--night:#fdfdfb;--night-2:#fcfcfe;--ink-n:#121117;--ink-n2:#4c4a55;--muted-n:#706b7b;--hair-n:rgba(18,17,23,.15)}
+:root[data-theme="light"] .sc-title .pstb-logo{filter:invert(1)}
+:root[data-theme="dark"]{--paper:#0e0d12;--surface:#15141b;--ink:#f2f0ec;--ink-2:#b9b5c2;--muted:#aaa4b5;--hair:#35313f;--rose-l:#f43b5c;--violet-l:#8d6aff}
+@media(max-width:760px){.tour-caption{top:68px;right:18px;width:440px;padding:16px 18px}.tour-caption h2{font-size:28px}#tour-body{font-size:22px}#tour-source{font-size:12px}.tour-drawer .tour-caption{right:18px}.elia-dock,.tour-controls{right:18px;bottom:16px}}
+@media(prefers-reduced-motion:reduce){.tour-caption,#tour-cursor{transition:none}#tour-cursor.click i{animation:none}}

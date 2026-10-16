@@ -1,0 +1,50 @@
+{"k": 100, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 101, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "RAG, agents LLM, lead AI"}
+{"k": 102, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 103, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 104, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "usage LLM pour marketing digital"}
+{"k": 105, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "chef de projet technique IA, stratégie IA"}
+{"k": 106, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 107, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "responsable projets IA, agents IA"}
+{"k": 108, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 109, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 110, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 111, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "chatbot IA et usage IA service client"}
+{"k": 112, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 113, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 114, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 115, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "développeur IA, RAG, chatbot, prompts"}
+{"k": 116, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "outils IA cités dans l'offre franchise"}
+{"k": 117, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 118, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 119, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_architect", "note": "architecte AI, FinOps GenAI"}
+{"k": 120, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "copilote est une métaphore"}
+{"k": 121, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 122, "is_tech": true, "ai_any": false, "ai_core": false, "canon": "data_scientist", "note": "aucune mention IA, modèles prédictifs seulement"}
+{"k": 123, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "IA générative Gemini, adoption parmi autres piliers"}
+{"k": 124, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 125, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 126, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 127, "is_tech": true, "ai_any": true, "ai_core": false, "canon": "data_analyst", "note": "cas d'usage GenAI/LLM en complément du run data"}
+{"k": 128, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 129, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_product_manager", "note": "product manager GenAI, assistant IA"}
+{"k": 130, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 131, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "IA assiste génération de code, contexte"}
+{"k": 132, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 133, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "mallette intelligente, pas d'IA"}
+{"k": 134, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 135, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "consultant Data & IA, stratégie IA"}
+{"k": 136, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 137, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "cloud et IA générative, LLM, agents"}
+{"k": 138, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 139, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 140, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 141, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "IA pour optimiser la prospection"}
+{"k": 142, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 143, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 144, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "projet utilisant technologies d'IA, rôle test"}
+{"k": 145, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "ingénieur technologue en IA"}
+{"k": 146, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 147, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "IA citée parmi thèmes de formation vendus"}
+{"k": 148, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "IA seulement dans description du pôle employeur"}
+{"k": 149, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}

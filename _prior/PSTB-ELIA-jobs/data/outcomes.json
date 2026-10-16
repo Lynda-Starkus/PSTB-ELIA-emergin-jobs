@@ -1,0 +1,753 @@
+{
+  "meta": {
+    "frCollectedAt": "2026-10-04T18:03:16.703Z",
+    "frCollectedDate": "2026-10-04",
+    "hnSource": "Hacker News · archive internationale",
+    "hnCurrentWindow": {
+      "from": "2025-10",
+      "to": "2026-09"
+    },
+    "hnPreviousWindow": {
+      "from": "2024-10",
+      "to": "2025-09"
+    },
+    "hnArchiveWindow": {
+      "from": "2011-04",
+      "to": "2026-09"
+    },
+    "hnAnalysed": 91660,
+    "frExtractTitles": 907889,
+    "method": "Intitulés HN : regex exactes de tools/build_data.mjs, correspondances non exclusives, effectifs bruts par fenêtre de douze mois."
+  },
+  "selectedFrance5": [
+    {
+      "id": "ai_engineer",
+      "label": "Ingénieur IA",
+      "titleEn": "AI Engineer",
+      "category": "emerging",
+      "family": "ai_engineering",
+      "previous": 142,
+      "current": 202,
+      "hn24": 344,
+      "growthPct": 42.3,
+      "totalObserved": 540,
+      "firstObserved": "2011-06",
+      "lastObserved": "2026-09",
+      "ftCount": 537,
+      "ftRecent": 425,
+      "source": "France Travail · 4 octobre 2026",
+      "queryCounts": {
+        "AI Engineer": 62,
+        "Ingénieur IA": 297,
+        "Ingénieur intelligence artificielle": 537
+      }
+    },
+    {
+      "id": "agent_engineer",
+      "label": "Ingénieur agents IA",
+      "titleEn": "Agent Engineer",
+      "category": "emerging",
+      "family": "agents",
+      "previous": 8,
+      "current": 19,
+      "hn24": 27,
+      "growthPct": 137.5,
+      "totalObserved": 39,
+      "firstObserved": "2016-09",
+      "lastObserved": "2026-09",
+      "ftCount": 32,
+      "ftRecent": 21,
+      "source": "France Travail · 4 octobre 2026",
+      "queryCounts": {
+        "Agent Engineer": 32,
+        "Ingénieur agents IA": 19,
+        "AI Agent Engineer": 4
+      }
+    },
+    {
+      "id": "genai_engineer",
+      "label": "Ingénieur IA générative",
+      "titleEn": "Generative AI Engineer",
+      "category": "emerging",
+      "family": "ai_engineering",
+      "previous": 3,
+      "current": 5,
+      "hn24": 8,
+      "growthPct": 66.7,
+      "totalObserved": 8,
+      "firstObserved": "2024-11",
+      "lastObserved": "2026-05",
+      "ftCount": 22,
+      "ftRecent": 19,
+      "source": "France Travail · 4 octobre 2026",
+      "queryCounts": {
+        "Generative AI Engineer": 5,
+        "Ingénieur IA générative": 22,
+        "Ingénieur GenAI": 5
+      }
+    },
+    {
+      "id": "ai_automation_engineer",
+      "label": "Ingénieur automatisation IA",
+      "titleEn": "AI Automation Engineer",
+      "category": "emerging",
+      "family": "agents",
+      "previous": 5,
+      "current": 8,
+      "hn24": 13,
+      "growthPct": 60.0,
+      "totalObserved": 27,
+      "firstObserved": "2016-07",
+      "lastObserved": "2026-09",
+      "ftCount": 11,
+      "ftRecent": 10,
+      "source": "France Travail · 4 octobre 2026",
+      "queryCounts": {
+        "AI Automation Engineer": 0,
+        "Ingénieur automatisation IA": 11,
+        "Automation Specialist IA": 0
+      }
+    },
+    {
+      "id": "fde",
+      "label": "Forward Deployed Engineer",
+      "titleEn": "Forward Deployed Engineer",
+      "category": "emerging",
+      "family": "forward_deployed",
+      "previous": 21,
+      "current": 87,
+      "hn24": 108,
+      "growthPct": 314.3,
+      "totalObserved": 145,
+      "firstObserved": "2011-09",
+      "lastObserved": "2026-09",
+      "ftCount": 9,
+      "ftRecent": 9,
+      "source": "France Travail · 4 octobre 2026",
+      "queryCounts": {
+        "Forward Deployed Engineer": 9
+      }
+    }
+  ],
+  "international5": [
+    {
+      "id": "fde",
+      "label": "Forward Deployed Engineer",
+      "titleEn": "Forward Deployed Engineer",
+      "category": "emerging",
+      "family": "forward_deployed",
+      "previous": 21,
+      "current": 87,
+      "hn24": 108,
+      "growthPct": 314.3,
+      "totalObserved": 145,
+      "firstObserved": "2011-09",
+      "lastObserved": "2026-09",
+      "ftCount": 9,
+      "ftRecent": 9
+    },
+    {
+      "id": "ai_infrastructure_engineer",
+      "label": "Ingénieur infrastructure IA",
+      "titleEn": "AI Infrastructure Engineer",
+      "category": "rising",
+      "family": "ml_engineering",
+      "previous": 23,
+      "current": 50,
+      "hn24": 73,
+      "growthPct": 117.4,
+      "totalObserved": 138,
+      "firstObserved": "2015-08",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0
+    },
+    {
+      "id": "inference_engineer",
+      "label": "Ingénieur inférence",
+      "titleEn": "Inference Engineer",
+      "category": "emerging",
+      "family": "ml_engineering",
+      "previous": 44,
+      "current": 80,
+      "hn24": 124,
+      "growthPct": 81.8,
+      "totalObserved": 258,
+      "firstObserved": "2013-02",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0
+    },
+    {
+      "id": "mts",
+      "label": "Member of Technical Staff",
+      "titleEn": "Member of Technical Staff",
+      "category": "emerging",
+      "family": "ai_engineering",
+      "previous": 14,
+      "current": 30,
+      "hn24": 44,
+      "growthPct": 114.3,
+      "totalObserved": 52,
+      "firstObserved": "2015-08",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0
+    },
+    {
+      "id": "prompt_engineer",
+      "label": "Ingénieur prompt",
+      "titleEn": "Prompt Engineer",
+      "category": "fading",
+      "family": "prompt_context",
+      "previous": 8,
+      "current": 16,
+      "hn24": 24,
+      "growthPct": 100.0,
+      "totalObserved": 40,
+      "firstObserved": "2023-03",
+      "lastObserved": "2026-07",
+      "ftCount": 4,
+      "ftRecent": 3
+    }
+  ],
+  "bullish5": [
+    {
+      "id": "fde",
+      "label": "Forward Deployed Engineer",
+      "titleEn": "Forward Deployed Engineer",
+      "category": "emerging",
+      "family": "forward_deployed",
+      "previous": 21,
+      "current": 87,
+      "hn24": 108,
+      "growthPct": 314.3,
+      "totalObserved": 145,
+      "firstObserved": "2011-09",
+      "lastObserved": "2026-09",
+      "ftCount": 9,
+      "ftRecent": 9
+    },
+    {
+      "id": "agent_engineer",
+      "label": "Ingénieur agents IA",
+      "titleEn": "Agent Engineer",
+      "category": "emerging",
+      "family": "agents",
+      "previous": 8,
+      "current": 19,
+      "hn24": 27,
+      "growthPct": 137.5,
+      "totalObserved": 39,
+      "firstObserved": "2016-09",
+      "lastObserved": "2026-09",
+      "ftCount": 32,
+      "ftRecent": 21
+    },
+    {
+      "id": "ai_infrastructure_engineer",
+      "label": "Ingénieur infrastructure IA",
+      "titleEn": "AI Infrastructure Engineer",
+      "category": "rising",
+      "family": "ml_engineering",
+      "previous": 23,
+      "current": 50,
+      "hn24": 73,
+      "growthPct": 117.4,
+      "totalObserved": 138,
+      "firstObserved": "2015-08",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0
+    },
+    {
+      "id": "mts",
+      "label": "Member of Technical Staff",
+      "titleEn": "Member of Technical Staff",
+      "category": "emerging",
+      "family": "ai_engineering",
+      "previous": 14,
+      "current": 30,
+      "hn24": 44,
+      "growthPct": 114.3,
+      "totalObserved": 52,
+      "firstObserved": "2015-08",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0,
+      "note": "Intitulé ancien ; sa hausse ne démontre pas un métier nouveau."
+    },
+    {
+      "id": "prompt_engineer",
+      "label": "Ingénieur prompt",
+      "titleEn": "Prompt Engineer",
+      "category": "fading",
+      "family": "prompt_context",
+      "previous": 8,
+      "current": 16,
+      "hn24": 24,
+      "growthPct": 100.0,
+      "totalObserved": 40,
+      "firstObserved": "2023-03",
+      "lastObserved": "2026-07",
+      "ftCount": 4,
+      "ftRecent": 3,
+      "note": "+100 % dans l’archive malgré le classement ELIA « en retrait »."
+    }
+  ],
+  "bearish5": [
+    {
+      "id": "ai_security_engineer",
+      "label": "Ingénieur sécurité IA",
+      "titleEn": "AI Security Engineer",
+      "category": "rising",
+      "family": "ai_security",
+      "previous": 12,
+      "current": 4,
+      "hn24": 16,
+      "growthPct": -66.7,
+      "totalObserved": 26,
+      "firstObserved": "2022-05",
+      "lastObserved": "2026-09",
+      "ftCount": 12,
+      "ftRecent": 12,
+      "note": "Baisse de mentions ; faible effectif, aucun métier déclaré disparu."
+    },
+    {
+      "id": "ml_scientist",
+      "label": "Scientifique machine learning",
+      "titleEn": "Machine Learning Scientist",
+      "category": "rising",
+      "family": "ai_research",
+      "previous": 9,
+      "current": 4,
+      "hn24": 13,
+      "growthPct": -55.6,
+      "totalObserved": 135,
+      "firstObserved": "2012-09",
+      "lastObserved": "2026-07",
+      "ftCount": 59,
+      "ftRecent": 42,
+      "note": "Baisse de mentions ; faible effectif, aucun métier déclaré disparu."
+    },
+    {
+      "id": "red_teamer_ia",
+      "label": "Red Teamer IA",
+      "titleEn": "AI Red Teamer",
+      "category": "emerging",
+      "family": "ai_security",
+      "previous": 7,
+      "current": 4,
+      "hn24": 11,
+      "growthPct": -42.9,
+      "totalObserved": 115,
+      "firstObserved": "2012-10",
+      "lastObserved": "2026-09",
+      "ftCount": 0,
+      "ftRecent": 0,
+      "note": "Baisse de mentions ; faible effectif, aucun métier déclaré disparu."
+    },
+    {
+      "id": "data_annotation_lead",
+      "label": "Responsable annotation de données",
+      "titleEn": "Data Annotation Lead",
+      "category": "rising",
+      "family": "ai_data_ops",
+      "previous": 14,
+      "current": 10,
+      "hn24": 24,
+      "growthPct": -28.6,
+      "totalObserved": 115,
+      "firstObserved": "2012-12",
+      "lastObserved": "2026-08",
+      "ftCount": 0,
+      "ftRecent": 0,
+      "note": "Baisse de mentions ; faible effectif, aucun métier déclaré disparu."
+    },
+    {
+      "id": "ai_research_scientist",
+      "label": "Chercheur en IA",
+      "titleEn": "AI Research Scientist",
+      "category": "rising",
+      "family": "ai_research",
+      "previous": 26,
+      "current": 22,
+      "hn24": 48,
+      "growthPct": -15.4,
+      "totalObserved": 274,
+      "firstObserved": "2012-03",
+      "lastObserved": "2026-09",
+      "ftCount": 3,
+      "ftRecent": 3,
+      "note": "Baisse de mentions ; faible effectif, aucun métier déclaré disparu."
+    }
+  ],
+  "absent12Months": [
+    {
+      "id": "ai_ux_designer",
+      "label": "Designer UX IA",
+      "titleEn": "AI UX Designer",
+      "category": "emerging",
+      "family": "ai_product",
+      "previous": 1,
+      "current": 0,
+      "hn24": 1,
+      "growthPct": -100.0,
+      "totalObserved": 2,
+      "firstObserved": "2024-09",
+      "lastObserved": "2024-11",
+      "ftCount": 3,
+      "ftRecent": 3,
+      "note": "Signal lexical absent sur douze mois après 1–2 mentions ; base trop faible pour conclure à une disparition."
+    },
+    {
+      "id": "ai_sales_engineer",
+      "label": "Ingénieur avant-vente IA",
+      "titleEn": "AI Sales Engineer",
+      "category": "rising",
+      "family": "forward_deployed",
+      "previous": 1,
+      "current": 0,
+      "hn24": 1,
+      "growthPct": -100.0,
+      "totalObserved": 7,
+      "firstObserved": "2012-02",
+      "lastObserved": "2025-03",
+      "ftCount": 1,
+      "ftRecent": 1,
+      "note": "Signal lexical absent sur douze mois après 1–2 mentions ; base trop faible pour conclure à une disparition."
+    },
+    {
+      "id": "ai_trainer",
+      "label": "Entraîneur de modèles IA",
+      "titleEn": "AI Trainer",
+      "category": "emerging",
+      "family": "ai_data_ops",
+      "previous": 1,
+      "current": 0,
+      "hn24": 1,
+      "growthPct": -100.0,
+      "totalObserved": 2,
+      "firstObserved": "2017-06",
+      "lastObserved": "2025-03",
+      "ftCount": 0,
+      "ftRecent": 0,
+      "note": "Signal lexical absent sur douze mois après 1–2 mentions ; base trop faible pour conclure à une disparition."
+    },
+    {
+      "id": "data_curator",
+      "label": "Curateur de données",
+      "titleEn": "Data Curator",
+      "category": "emerging",
+      "family": "ai_data_ops",
+      "previous": 2,
+      "current": 0,
+      "hn24": 2,
+      "growthPct": -100.0,
+      "totalObserved": 16,
+      "firstObserved": "2013-10",
+      "lastObserved": "2025-08",
+      "ftCount": 0,
+      "ftRecent": 0,
+      "note": "Signal lexical absent sur douze mois après 1–2 mentions ; base trop faible pour conclure à une disparition."
+    }
+  ],
+  "candidate5": [
+    {
+      "rank": 1,
+      "label": "développeur ia",
+      "count": 23,
+      "variants": 11,
+      "score": 31.8,
+      "sources": {
+        "FT": 15,
+        "CSP": 2,
+        "ADZ": 6
+      },
+      "examples": [
+        "Développeur IA - H/F",
+        "Développeur IA - Applications sur mesure & Gestion (H/F)",
+        "Développeur IA - Freelance (H/F)",
+        "DÉVELOPPEUR IA / PYTHON - KYC - Freelance (H/F)"
+      ]
+    },
+    {
+      "rank": 2,
+      "label": "enseignant e chercheur euse contractuel le en intelligence artificielle générative",
+      "count": 21,
+      "variants": 17,
+      "score": 25.9,
+      "sources": {
+        "CSP": 19,
+        "FT": 2
+      },
+      "examples": [
+        "Enseignant/e Chercheur/euse contractuel/le en Intelligence Artificielle Générative",
+        "Enseignant·e Chercheur·euse contractuel·le en Intelligence Artificielle Générative",
+        "Enseignant-Chercheur Contractuel intelligence Artificielle",
+        "Enseignant-chercheur en Intelligence Artificielle Quantique (H/F)"
+      ]
+    },
+    {
+      "rank": 3,
+      "label": "ingenieur en intelligence artificielle",
+      "count": 23,
+      "variants": 14,
+      "score": 25.7,
+      "sources": {
+        "CSP": 20,
+        "FT": 3
+      },
+      "examples": [
+        "INGENIEUR EN INTELLIGENCE ARTIFICIELLE",
+        "Expert intelligence artificielle (H/F)",
+        "INGENIEUR EN INTELLIGENCE ARTIFICIELLE CONFIRME",
+        "EXPERT EN INTELLIGENCE ARTIFICIELLE"
+      ]
+    },
+    {
+      "rank": 4,
+      "label": "tech ia",
+      "count": 11,
+      "variants": 5,
+      "score": 16,
+      "sources": {
+        "FT": 8,
+        "CSP": 1,
+        "ADZ": 1,
+        "BPCE": 1
+      },
+      "examples": [
+        "Tech Lead IA générative - Agents, RAG et LLMOps - Freelance (H/F)",
+        "Tech Lead IA (H/F)",
+        "Tech Lead IA / Agents conversationnels - Domaine Finance - Freelance (H/F)",
+        "Tech Lead IA / MLOps - Création d'IA Factory (GCP / Agentique) - CDI (H/F)"
+      ]
+    },
+    {
+      "rank": 5,
+      "label": "product owner ia",
+      "count": 10,
+      "variants": 8,
+      "score": 13.4,
+      "sources": {
+        "FT": 9,
+        "ADZ": 1
+      },
+      "examples": [
+        "Product Owner IA (H/F) - Freelance",
+        "Product Owner IA - Freelance (H/F)",
+        "Product Owner Data et IA H/F",
+        "Product owner data et ia f/h (CDI)"
+      ]
+    }
+  ],
+  "regionalTop3": [
+    {
+      "rank": 1,
+      "code": "11",
+      "label": "Île-de-France",
+      "count": 582,
+      "recent": 510,
+      "sharePct": 53.9,
+      "tied": false
+    },
+    {
+      "rank": 2,
+      "code": "84",
+      "label": "Auvergne-Rhône-Alpes",
+      "count": 111,
+      "recent": 94,
+      "sharePct": 10.3,
+      "tied": false
+    },
+    {
+      "rank": 3,
+      "code": "76",
+      "label": "Occitanie",
+      "count": 64,
+      "recent": 47,
+      "sharePct": 5.9,
+      "tied": true
+    },
+    {
+      "rank": 3,
+      "code": "93",
+      "label": "Provence-Alpes-Côte d’Azur",
+      "count": 64,
+      "recent": 43,
+      "sharePct": 5.9,
+      "tied": true
+    }
+  ],
+  "labels": {
+    "selectedFrance5": "Cinq rôles IA sélectionnés en France",
+    "international5": "Cinq intitulés · mentions internationales et résultats France Travail",
+    "bullish5": "Top 5 des intitulés IA en hausse · HN international",
+    "bearish5": "Top 5 des intitulés IA en repli · HN international",
+    "absent12Months": "4 signaux absents depuis douze mois · HN international",
+    "candidate5": "Cinq groupes candidats · score exploratoire ELIA",
+    "regionalTop3": "Trois premiers rangs régionaux · ex æquo au troisième"
+  },
+  "methods": {
+    "selectedFrance5": "Sélection de rôles IA, pas un top 5 universel. Maximum des résultats des requêtes par alias ; chevauchements possibles.",
+    "international5": "Mentions HN brutes sur douze mois et résultats de requêtes France Travail à la collecte. Deux sources et périmètres distincts ; ni mesure de retard français, ni croissance française.",
+    "bullish5": "Familles IA hors contexte ; ≥24 mentions sur 24 mois et ≥8 dans la fenêtre précédente ; tri par variation des mentions.",
+    "bearish5": "Familles IA hors contexte ; ≥10 mentions sur 24 mois, fenêtre précédente non nulle ; tri par variation des mentions. Faibles bases visibles.",
+    "absent12Months": "Au moins une mention dans la fenêtre précédente, zéro dans la dernière. L’absence dans cette archive ne démontre pas la disparition d’un métier.",
+    "candidate5": "Classement déjà calculé dans discovery.json. Regroupements lexicaux à valider ; « hors nomenclature » concerne le référentiel ELIA.",
+    "regionalTop3": "France Travail, dix intitulés suivis, collecte du 4 octobre 2026. Résultats bruts par requêtes régionales ; trois rangs, quatre régions du fait d’un ex æquo."
+  },
+  "optionalEvidence": {
+    "ftCorpusCount": 4704,
+    "ftCorpusFields": [
+      "c",
+      "d",
+      "dep",
+      "id",
+      "r",
+      "t"
+    ],
+    "employerRanking": {
+      "available": true,
+      "label": "Employeurs affichés pour la requête « AI engineer »",
+      "source": "Adzuna France · 4 octobre 2026",
+      "collectedAt": "2026-10-04T19:32:21.753Z",
+      "query": "AI engineer",
+      "method": "Classement retourné par /top_companies?what=AI engineer ; résultats de cette requête, pas un top national ni des embauches réalisées.",
+      "items": [
+        {
+          "rank": 1,
+          "label": "Wavestone",
+          "count": 11,
+          "tied": false
+        },
+        {
+          "rank": 2,
+          "label": "Onepoint",
+          "count": 10,
+          "tied": false
+        },
+        {
+          "rank": 3,
+          "label": "Air Liquide",
+          "count": 7,
+          "tied": true
+        },
+        {
+          "rank": 3,
+          "label": "Doctolib",
+          "count": 7,
+          "tied": true
+        },
+        {
+          "rank": 5,
+          "label": "Accenture France",
+          "count": 6,
+          "tied": false
+        }
+      ]
+    },
+    "ftContractMix": {
+      "available": true,
+      "label": "Contrats du sous-échantillon FT à intitulé lexical IA",
+      "source": "France Travail · corpus rapatrié le 4 octobre 2026",
+      "collectedAt": "2026-10-04T19:19:18.651Z",
+      "denominator": 337,
+      "ingestedCount": 4704,
+      "method": "Filtre lexical IA exact de mine_discovery.mjs après normalisation et exclusion des homonymes identifiés. Codes de contrat des offres observées ; sous-échantillon non représentatif, sélection lexicale à valider.",
+      "items": [
+        {
+          "code": "CDI",
+          "label": "CDI",
+          "count": 182,
+          "sharePct": 54.0
+        },
+        {
+          "code": "LIB",
+          "label": "Profession libérale",
+          "count": 91,
+          "sharePct": 27.0
+        },
+        {
+          "code": "CDD",
+          "label": "CDD",
+          "count": 32,
+          "sharePct": 9.5
+        },
+        {
+          "code": "MIS",
+          "label": "Intérim",
+          "count": 30,
+          "sharePct": 8.9
+        },
+        {
+          "code": "DDI",
+          "label": "Contrat à durée déterminée d’insertion",
+          "count": 2,
+          "sharePct": 0.6
+        }
+      ]
+    },
+    "juniorExamples": {
+      "available": true,
+      "label": "Exemples d’intitulés mentionnant stage, alternance ou junior",
+      "source": "France Travail · sous-échantillon lexical IA · 4 octobre 2026",
+      "collectedAt": "2026-10-04T19:19:18.651Z",
+      "matchCount": 19,
+      "distinctTitles": 19,
+      "method": "Marqueur explicite stage/stagiaire/alternance/alternant/apprenti/junior dans le titre. Jusqu’à cinq titres distincts, triés par date. Exemples, pas classement national ni validation des conditions d’accès.",
+      "items": [
+        {
+          "id": "214RJMS",
+          "label": "Alternant(e) en Développement Web et Automatisation IA (H/F)",
+          "date": "2026-10-01",
+          "contract": "CDD"
+        },
+        {
+          "id": "7557351",
+          "label": "Stage Ingénieur/e IA - Reinforcement Learning - Défense & Sécurité - Aix-en-Provence H/F",
+          "date": "2026-10-01",
+          "contract": "CDI"
+        },
+        {
+          "id": "7519014",
+          "label": "Stage IA et Automatisation - Assistant IA pour la préparation des livraisons logicielles - Défense & Sécurité - Aix-en-Provence H/F",
+          "date": "2026-09-30",
+          "contract": "CDI"
+        },
+        {
+          "id": "7489699",
+          "label": "Développeur IA junior - Freelance (H/F)",
+          "date": "2026-09-29",
+          "contract": "LIB"
+        },
+        {
+          "id": "7426973",
+          "label": "Alternant Chargé de transformation digitale et IA H/F",
+          "date": "2026-09-26",
+          "contract": "CDD"
+        }
+      ]
+    },
+    "juniorTop5": {
+      "available": false,
+      "reason": "Niveau d’expérience absent ; des mots dans le titre ne suffisent pas à classer les postes ouverts aux juniors."
+    },
+    "skillsTop5": {
+      "available": false,
+      "reason": "Descriptions et compétences absentes du corpus ; compétences de la taxonomie éditoriales, pas fréquences observées."
+    },
+    "migration": {
+      "available": false,
+      "reason": "Aucun suivi individuel ni comparaison des tâches pour établir une transition entre métiers."
+    }
+  },
+  "limitations": [
+    "La France est un instantané ; le momentum et les absences proviennent de l’archive internationale HN.",
+    "Résultats de requêtes et mentions d’annonces, pas embauches réalisées ni budgets engagés.",
+    "Un titre nouveau ne démontre pas un métier nouveau ; plusieurs intitulés retenus sont anciens.",
+    "Les séries d’intitulés peuvent se chevaucher ; la sélection regex n’établit pas une représentativité nationale.",
+    "Aucune liste étayée de cinq métiers rapidement disparus : seulement quatre signaux faibles sans mention sur la dernière fenêtre."
+  ]
+}

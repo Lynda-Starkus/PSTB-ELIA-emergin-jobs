@@ -1,0 +1,50 @@
+{"k": 500, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "agent_engineer", "note": "Builds AI agents and automations for teams"}
+{"k": 501, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ml_engineer", "note": "Industrialises ML anomaly-detection models in production"}
+{"k": 502, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_engineer", "note": "LLM, RAG, AI agents development tasks"}
+{"k": 503, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": null, "note": "Embedded AI models, deep learning on edge"}
+{"k": 504, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Offered tools include intelligent CRM, integrated AI"}
+{"k": 505, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses AI tools to write specs and tests"}
+{"k": 506, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Interest in AI listed as required skill"}
+{"k": 507, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 508, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Develops LLM, RAG, agent use cases in finance"}
+{"k": 509, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Secures AI/GPU platform; not building AI"}
+{"k": 510, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Guide teams through AI integration change"}
+{"k": 511, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "head_of_ai", "note": "Leads generative AI team and program"}
+{"k": 512, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI tools mentioned among offered agency tools"}
+{"k": 513, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "genai_engineer", "note": "Builds generative and agentic AI SDK platform"}
+{"k": 514, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Fullstack lead; AI agents infra and features"}
+{"k": 515, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "AI expert delivering client AI projects"}
+{"k": 516, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 517, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 518, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in vision-industry environment blurb"}
+{"k": 519, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 520, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI tools supporting accounting team mentioned"}
+{"k": 521, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 522, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 523, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses AI coding assistants; employer AI R&D"}
+{"k": 524, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "GenAI, agentic platforms, MLOps consulting"}
+{"k": 525, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Product designer experimenting with generative AI tools"}
+{"k": 526, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 527, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "mlops_engineer", "note": "Runs GenAI/MLOps OpenShift AI platform"}
+{"k": 528, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI gateway product mentioned; SRE role"}
+{"k": 529, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Deploys chatbots, AI assistants, data quality"}
+{"k": 530, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 531, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 532, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 533, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Sells AI training and AI agents solutions"}
+{"k": 534, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only in employer innovation blurb"}
+{"k": 535, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "AI projects, assistants, Copilot, Azure AI"}
+{"k": 536, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 537, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "Architect of data and AI platforms"}
+{"k": 538, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 539, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "ML and AI model building, data scientist"}
+{"k": 540, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI automations among digitalisation tasks"}
+{"k": 541, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Data and AI consulting manager, AI factories"}
+{"k": 542, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 543, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Tech lead for AI projects and genAI"}
+{"k": 544, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_product_manager", "note": "Product owner of GenAI product"}
+{"k": 545, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "Copilote is metaphor for advisor"}
+{"k": 546, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Offered AI assistants for agents"}
+{"k": 547, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Platform with embedded AI offered as tool"}
+{"k": 548, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "data_scientist", "note": "Machine learning data scientist internship topics"}
+{"k": 549, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}

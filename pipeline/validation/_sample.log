@@ -1,0 +1,1 @@
+sample 1000 {'ai_text': 300, 'ai_core': 300, 'tech_noai': 200, 'other': 200} batches 20

@@ -1,0 +1,50 @@
+{"k":50,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention; building intelligence is not AI."}
+{"k":51,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"data_scientist","note":"Develops machine learning and deep learning models."}
+{"k":52,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":53,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"ai_engineer","note":"Intern building ML/LLM models and AI agents."}
+{"k":54,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"head_of_ai","note":"Deploys and governs AI, LLM, RAG for the firm."}
+{"k":55,"is_tech":true,"ai_any":true,"ai_job":false,"ai_core":false,"canon":"data_engineer","note":"AI/ML only named as internal community."}
+{"k":56,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":57,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":58,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":59,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":60,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":61,"is_tech":false,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Sensitivity to AI topics appreciated for accountant."}
+{"k":62,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":"data_engineer","note":"Builds data and graphs consumed by LLM agents."}
+{"k":63,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":64,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"ai_engineer","note":"Designs LLM agents, RAG, fine-tuning in production."}
+{"k":65,"is_tech":false,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"AI cited among new tools project; accounting role."}
+{"k":66,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":"data_engineer","note":"Data pipelines for AI assistant product with AI engineers."}
+{"k":67,"is_tech":false,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Uses platform with embedded AI; real estate sales."}
+{"k":68,"is_tech":true,"ai_any":true,"ai_job":false,"ai_core":false,"canon":null,"note":"Team builds AI services; apprentice does full-stack."}
+{"k":69,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":70,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Generative AI tool provided on platform; consulting DSI."}
+{"k":71,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":72,"is_tech":false,"ai_any":true,"ai_job":false,"ai_core":false,"canon":null,"note":"AI only as a possible major name in courses."}
+{"k":73,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":74,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"data_scientist","note":"Develops ML, AI and computer vision models."}
+{"k":75,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":76,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"data_scientist","note":"Apprenticeship on machine learning and AI topics."}
+{"k":77,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":78,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":79,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Requires prompt engineering, RAG, agentic and AI-assisted development."}
+{"k":80,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":81,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":82,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":83,"is_tech":false,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Integrates AI solutions in call-centre production, project management."}
+{"k":84,"is_tech":false,"ai_any":true,"ai_job":false,"ai_core":false,"canon":null,"note":"AI only in employer presentation; quantum materials research."}
+{"k":85,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"ai_engineer","note":"Frames and governs AI/LLM use in software development."}
+{"k":86,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"genai_engineer","note":"Builds generative AI features using model APIs."}
+{"k":87,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":88,"is_tech":true,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":89,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":90,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Java developer required to use AI-assisted coding intensively."}
+{"k":91,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":92,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":false,"canon":null,"note":"Fullstack dev with AI agent orchestration and AI coding tools."}
+{"k":93,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"head_of_ai","note":"Leads GenAI solutions centre, strategy and delivery."}
+{"k":94,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"mlops_engineer","note":"ML/LLMOps platforms and AI deployment."}
+{"k":95,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"agent_engineer","note":"Builds AI agent platform with LLM, RAG, LangGraph."}
+{"k":96,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":97,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}
+{"k":98,"is_tech":true,"ai_any":true,"ai_job":true,"ai_core":true,"canon":"data_scientist","note":"Predictive modelling; ML implied, no explicit AI wording."}
+{"k":99,"is_tech":false,"ai_any":false,"ai_job":false,"ai_core":false,"canon":null,"note":"No AI mention."}

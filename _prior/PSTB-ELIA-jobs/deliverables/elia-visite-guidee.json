@@ -1,0 +1,106 @@
+{
+  "url": "http://127.0.0.1:58516/deliverables/elia-scrollytelling.html",
+  "theme": "dark",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "tour_seconds": 164.396,
+  "trim_start": 0.52,
+  "trim_calibration": "first frame after sync marker",
+  "subtitle_cues": 37,
+  "subtitles": "deliverables\\elia-visite-guidee.srt",
+  "first_frame_preview": "deliverables\\elia-visite-guidee-apercus\\video-premiere-image.png",
+  "first_frame_rgb": [
+    8,
+    17,
+    14
+  ],
+  "first_frame_marker_absent": true,
+  "chapters": [
+    {
+      "index": 0,
+      "seconds": 0.03
+    },
+    {
+      "index": 1,
+      "seconds": 13.053
+    },
+    {
+      "index": 2,
+      "seconds": 25.106
+    },
+    {
+      "index": 3,
+      "seconds": 38.13
+    },
+    {
+      "index": 4,
+      "seconds": 51.16
+    },
+    {
+      "index": 5,
+      "seconds": 62.182
+    },
+    {
+      "index": 6,
+      "seconds": 74.193
+    },
+    {
+      "index": 7,
+      "seconds": 88.214
+    },
+    {
+      "index": 8,
+      "seconds": 100.229
+    },
+    {
+      "index": 9,
+      "seconds": 115.246
+    },
+    {
+      "index": 10,
+      "seconds": 129.258
+    },
+    {
+      "index": 11,
+      "seconds": 142.268
+    },
+    {
+      "index": 12,
+      "seconds": 152.302
+    }
+  ],
+  "screenshots": [
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-01.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-03.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-05.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-06.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-07.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-08.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-09.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-10.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-11.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-12.png",
+    "deliverables\\elia-visite-guidee-apercus\\chapitre-13.png",
+    "deliverables\\elia-visite-guidee-apercus\\conclusion.png"
+  ],
+  "browser_errors": [],
+  "video": "deliverables\\elia-visite-guidee.mp4",
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "avg_frame_rate": "25/1"
+      }
+    ],
+    "format": {
+      "duration": "164.400000",
+      "size": "25429758"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{"k": 550, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 551, "is_tech": false, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only as e-learning topic benefit"}
+{"k": 552, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Product manager for cloud, HPC and AI offerings"}
+{"k": 553, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 554, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_trainer", "note": "Runs and teaches MSc in AI"}
+{"k": 555, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_engineer", "note": "Tech lead for AI models, genAI, agentic AI"}
+{"k": 556, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 557, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Applied generative AI consulting and adoption"}
+{"k": 558, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "AI only listed among tech watch trends"}
+{"k": 559, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 560, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "agent_engineer", "note": "Builds agentic AI development workflows"}
+{"k": 561, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_other", "note": "Prototypes AI/GenAI automation for threat intel"}
+{"k": 562, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 563, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "AI and generative AI consulting for finance"}
+{"k": 564, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Explores AI opportunities; IS manager role"}
+{"k": 565, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Sells data and AI solutions"}
+{"k": 566, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Defines AI usage framework; IT manager"}
+{"k": 567, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 568, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 569, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "mlops_engineer", "note": "MLOps pipelines for ML model deployment"}
+{"k": 570, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses Claude and ChatGPT tools to develop"}
+{"k": 571, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Data and AI strategy consulting, responsible AI"}
+{"k": 572, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 573, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 574, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 575, "is_tech": true, "ai_any": true, "ai_job": false, "ai_core": false, "canon": null, "note": "GenAI only in employer presentation"}
+{"k": 576, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Trains clients on AI tools among topics"}
+{"k": 577, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Uses and enriches AI agents in accounting"}
+{"k": 578, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_architect", "note": "AI architect: models, LLMOps, agents, MCP"}
+{"k": 579, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 580, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Trains clients on AI tools among topics"}
+{"k": 581, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 582, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_analyst", "note": "LLM decision-aid support; mostly databases and Power BI"}
+{"k": 583, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 584, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_sales", "note": "Sells generative AI and agentic solutions"}
+{"k": 585, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 586, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 587, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 588, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "ITM AI is a brand name"}
+{"k": 589, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": "data_engineer", "note": "AI-native firm; Copilot code agents used"}
+{"k": 590, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 591, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Works in 5G/NTN/AI environments, brief mention"}
+{"k": 592, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "Trains clients on AI tools among topics"}
+{"k": 593, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 594, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 595, "is_tech": true, "ai_any": false, "ai_job": false, "ai_core": false, "canon": "data_scientist", "note": "Statistics production in R/Python; no ML mentioned"}
+{"k": 596, "is_tech": false, "ai_any": true, "ai_job": true, "ai_core": false, "canon": null, "note": "AI transcription tool provided to recruiter"}
+{"k": 597, "is_tech": false, "ai_any": false, "ai_job": false, "ai_core": false, "canon": null, "note": "No AI reference"}
+{"k": 598, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "agent_engineer", "note": "Prototypes LLM-based intelligent agents"}
+{"k": 599, "is_tech": true, "ai_any": true, "ai_job": true, "ai_core": true, "canon": "ai_consultant", "note": "Data and AI consulting, GenAI, agents"}

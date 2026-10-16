@@ -1,0 +1,151 @@
+1
+00:00:00,008 --> 00:00:02,224
++1 million d’offres en France.
+
+2
+00:00:02,264 --> 00:00:08,992
+Quels métiers émergent avec l’IA ?
+
+3
+00:00:09,032 --> 00:00:11,250
+De nouveaux rôles apparaissent.
+
+4
+00:00:11,290 --> 00:00:18,023
+On suit leur diffusion dans les annonces.
+
+5
+00:00:18,063 --> 00:00:20,521
+FDE : 21 → 87 mentions.
+
+6
+00:00:20,561 --> 00:00:28,015
++314 % sur deux années comparées.
+
+7
+00:00:28,055 --> 00:00:30,022
+Les agents IA gagnent du terrain.
+
+8
+00:00:30,062 --> 00:00:36,045
+Le graphique suit les familles de métiers.
+
+9
+00:00:36,085 --> 00:00:38,798
+Ingénieur IA : 537 résultats.
+
+10
+00:00:38,838 --> 00:00:47,059
+425 publiés depuis 31 jours ou moins.
+
+11
+00:00:47,099 --> 00:00:49,064
+On regarde les offres récentes.
+
+12
+00:00:49,104 --> 00:00:55,077
+Le filtre passe à 31 jours.
+
+13
+00:00:55,117 --> 00:00:57,331
+Wavestone : 11 · Onepoint : 10.
+
+14
+00:00:57,371 --> 00:01:04,093
+Des offres d’ingénieur IA publiées.
+
+15
+00:01:04,133 --> 00:01:06,346
+Île-de-France : 582 résultats.
+
+16
+00:01:06,386 --> 00:01:13,104
+Auvergne-Rhône-Alpes : 111.
+
+17
+00:01:13,144 --> 00:01:15,860
+Développeur IA : 23 annonces.
+
+18
+00:01:15,900 --> 00:01:24,127
+11 variantes d’intitulé.
+
+19
+00:01:24,167 --> 00:01:26,376
+Tech Lead IA : 11 annonces.
+
+20
+00:01:26,416 --> 00:01:33,124
+Agents, RAG et LLMOps dans les titres.
+
+21
+00:01:33,164 --> 00:01:35,382
+Développeur IA junior · Freelance.
+
+22
+00:01:35,422 --> 00:01:42,157
+Un intitulé réellement publié.
+
+23
+00:01:42,197 --> 00:01:45,157
+5 rôles IA recrutés en France.
+
+24
+00:01:45,197 --> 00:01:54,167
+537 · 32 · 22 · 11 · 9 résultats.
+
+25
+00:01:54,207 --> 00:01:57,167
+FDE +314 % · Agents +138 %.
+
+26
+00:01:57,207 --> 00:02:07,181
+Les 5 plus fortes hausses retenues.
+
+27
+00:02:07,221 --> 00:02:10,181
+Sécurité IA : 12 → 4 mentions.
+
+28
+00:02:10,221 --> 00:02:20,198
+5 intitulés en recul dans l’archive.
+
+29
+00:02:20,238 --> 00:02:22,953
+4 intitulés absents depuis 12 mois.
+
+30
+00:02:22,993 --> 00:02:31,217
+Disparition du métier non établie.
+
+31
+00:02:31,257 --> 00:02:33,721
+FDE : 87 mentions HN, 9 résultats FR.
+
+32
+00:02:33,761 --> 00:02:41,232
+5 rôles à surveiller ici.
+
+33
+00:02:41,272 --> 00:02:43,986
+Ingénieur IA : ouvrir la fiche.
+
+34
+00:02:44,026 --> 00:02:52,247
+Alias, compétences et sources.
+
+35
+00:02:52,287 --> 00:02:54,253
+Original, clair ou sombre.
+
+36
+00:02:54,293 --> 00:03:00,272
+Le choix est mémorisé.
+
+37
+00:03:00,312 --> 00:03:03,021
+Repérer les rôles. Suivre leur diffusion.
+
+38
+00:03:03,061 --> 00:03:11,269
+Puis valider les fiches métier.

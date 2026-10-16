@@ -1,0 +1,131 @@
+1
+00:00:00,025 --> 00:00:01,989
+On analyse +1 million d’offres en France.
+
+2
+00:00:02,029 --> 00:00:08,000
+Quels métiers émergent avec l’IA ?
+
+3
+00:00:08,040 --> 00:00:09,757
+Les nouveaux rôles apparaissent dans les annonces.
+
+4
+00:00:09,797 --> 00:00:15,028
+L’archive permet de suivre leur diffusion.
+
+5
+00:00:15,068 --> 00:00:17,031
+FDE : 21 → 87 mentions en un an.
+
+6
+00:00:17,071 --> 00:00:23,040
+Un rôle centré sur le déploiement chez le client.
+
+7
+00:00:23,080 --> 00:00:25,794
+Ingénieur IA : 537 résultats.
+
+8
+00:00:25,834 --> 00:00:34,054
+Dont 425 publiés depuis 31 jours ou moins.
+
+9
+00:00:34,094 --> 00:00:36,058
+Île-de-France : 582 résultats.
+
+10
+00:00:36,098 --> 00:00:42,068
+Auvergne-Rhône-Alpes : 111.
+
+11
+00:00:42,108 --> 00:00:44,572
+Développeur IA : 23 annonces, 11 variantes.
+
+12
+00:00:44,612 --> 00:00:52,084
+Un même groupe sous plusieurs noms.
+
+13
+00:00:52,124 --> 00:00:54,585
+5 groupes candidats à suivre.
+
+14
+00:00:54,625 --> 00:01:02,089
+Dont Tech Lead IA et Product Owner IA.
+
+15
+00:01:02,129 --> 00:01:05,089
+FDE +314 % · Agents IA +138 %.
+
+16
+00:01:05,129 --> 00:01:14,123
+Le déploiement progresse dans l’archive.
+
+17
+00:01:14,163 --> 00:01:17,123
+Sécurité IA : 12 → 4 mentions.
+
+18
+00:01:17,163 --> 00:01:26,303
+−67 % sur deux années comparées.
+
+19
+00:01:26,343 --> 00:01:29,058
+4 intitulés absents depuis 12 mois.
+
+20
+00:01:29,098 --> 00:01:37,325
+La disparition du métier reste à établir.
+
+21
+00:01:37,365 --> 00:01:39,825
+FDE : 87 mentions HN, 9 résultats France.
+
+22
+00:01:39,865 --> 00:01:47,326
+Un signal international, peu de traces ici.
+
+23
+00:01:47,366 --> 00:01:50,081
+Wavestone : 11 · Onepoint : 10.
+
+24
+00:01:50,121 --> 00:01:58,347
+Des offres d’ingénieur IA publiées.
+
+25
+00:01:58,387 --> 00:02:00,855
+182 CDI sur 337 offres.
+
+26
+00:02:00,895 --> 00:02:08,379
+54 % de notre sous-échantillon.
+
+27
+00:02:08,419 --> 00:02:10,877
+Stage, alternance, junior : 5 exemples.
+
+28
+00:02:10,917 --> 00:02:18,372
+Des intitulés réellement observés.
+
+29
+00:02:18,412 --> 00:02:20,628
+Ingénieur IA : ouvrir la fiche.
+
+30
+00:02:20,668 --> 00:02:27,395
+Alias, compétences et offres exemples.
+
+31
+00:02:27,435 --> 00:02:29,143
+Clair ou sombre, à vous de choisir.
+
+32
+00:02:34,428 --> 00:02:36,941
+Des classements concrets. Des fiches à valider.
+
+33
+00:02:36,981 --> 00:02:44,598
+Suivre les intitulés dans la durée.

@@ -1,0 +1,50 @@
+{"k":450,"is_tech":true,"ai_any":false,"ai_core":false,"canon":"data_scientist","note":"modèles statistiques, IA non mentionnée"}
+{"k":451,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_product_manager","note":"pilote initiatives IA, agents, chatbots, posture product manager"}
+{"k":452,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"support informatique, aucune mention IA"}
+{"k":453,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":454,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"genai_engineer","note":"dev full stack et IA, assistants, agents, tool calling"}
+{"k":455,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":456,"is_tech":true,"ai_any":true,"ai_core":false,"canon":"data_scientist","note":"recherche opérationnelle ; machine learning cité en veille"}
+{"k":457,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"innovation, aucune mention IA visible"}
+{"k":458,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"responsable SI, aucune mention IA"}
+{"k":459,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_engineer","note":"data engineer pour innovation IA, pipelines pour modèles IA"}
+{"k":460,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"développeur IA, algorithmes d'apprentissage automatique"}
+{"k":461,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"admin plateforme ; ressources de calcul pour machine learning"}
+{"k":462,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AItiens est le nom de l'entreprise, pas d'IA"}
+{"k":463,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"développeur JavaScript, aucune mention IA"}
+{"k":464,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":465,"is_tech":true,"ai_any":false,"ai_core":false,"canon":"data_scientist","note":"statistiques d'enquêtes, IA non mentionnée"}
+{"k":466,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citée parmi les domaines d'intégration de l'employeur"}
+{"k":467,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"enseignant-chercheur signal/image ; interface avec intelligence artificielle"}
+{"k":468,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":469,"is_tech":true,"ai_any":false,"ai_core":false,"canon":"data_engineer","note":"pipelines ELT, IA non mentionnée"}
+{"k":470,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":471,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"post-doc mécanique des matériaux, pas d'IA"}
+{"k":472,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":473,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"architecte système ; Copilot cité parmi outils Microsoft"}
+{"k":474,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":475,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Data and AI engineer Databricks, solutions IA, Genie, LLMs"}
+{"k":476,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":477,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"développeur web, aucune mention IA"}
+{"k":478,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"admin Salesforce ; IA seulement dans le contexte employeur"}
+{"k":479,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":480,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"développeur IA et automatisation des tests"}
+{"k":481,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"IA seulement dans le texte générique de l'employeur"}
+{"k":482,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":483,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"IA seulement dans présentation générique de l'entreprise"}
+{"k":484,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":485,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"solution architect IA générative, agents IA, LLM"}
+{"k":486,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"formation numérique ; initier clients à ChatGPT et outils IA"}
+{"k":487,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"suivi données autosurveillance, aucune mention IA"}
+{"k":488,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"IA seulement dans présentation générique de l'entreprise"}
+{"k":489,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"graphiste ; IA générative comme outil de création visuelle"}
+{"k":490,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":491,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"IA seulement dans présentation générique de l'employeur"}
+{"k":492,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"réseaux et télécom, aucune mention IA"}
+{"k":493,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"administration Windows, aucune mention IA"}
+{"k":494,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"réparation matériel, aucune mention IA"}
+{"k":495,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"IA = insémination artificielle, sans rapport"}
+{"k":496,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"support logiciel, aucune mention IA"}
+{"k":497,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"audit ; IA citée comme contexte de mutation du métier"}
+{"k":498,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"marketing digital ; IA citée parmi terrains de test"}
+{"k":499,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"recrutement ; solutions d'IA parmi les outils fournis"}

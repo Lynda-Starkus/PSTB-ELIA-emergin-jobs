@@ -1,0 +1,50 @@
+{"k":400,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":401,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"CTO ; IA citée parmi les focus de transformation"}
+{"k":402,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"commercial ; offres IA générative dans le portefeuille"}
+{"k":403,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":404,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"tech lead Java ; projets intégrant des composants IA"}
+{"k":405,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"computer_vision_engineer","note":"développeur vision par ordinateur et IA"}
+{"k":406,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_architect","note":"expert IA, architecture IA générative et agentique"}
+{"k":407,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":408,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":409,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"head_of_ai","note":"manager équipe CoreAI, LLM, RAG, MLOps"}
+{"k":410,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"support logiciel métier, pas d'IA"}
+{"k":411,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"genai_engineer","note":"lead GenAI et agentique, RAG, agents en production"}
+{"k":412,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"data scientist employant technologies d'intelligence artificielle"}
+{"k":413,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"SI data et intégration, pas d'IA"}
+{"k":414,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":415,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"installateur ; IA intégrée au quotidien pour diagnostics"}
+{"k":416,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"AIR COMPTA, nom du cabinet, pas d'IA"}
+{"k":417,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"conseil CTO/CIO ; IA citée dans le titre, thème parmi d'autres"}
+{"k":418,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"dentiste ; outil IA clinique Allisone"}
+{"k":419,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"agent immobilier ; plateforme métier avec IA embarquée"}
+{"k":420,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"data scientist IA générative, ML, LLM"}
+{"k":421,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"ingénierie systèmes industriels, pas d'IA"}
+{"k":422,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"acheteur IT, aucune mention IA"}
+{"k":423,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"amélioration continue ; déploiement d'une IA de vérification"}
+{"k":424,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"agent_engineer","note":"développement d'agents IA, RAG, copilotes, MCP"}
+{"k":425,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"forward_deployed_engineer","note":"FDE Applied AI, LLM, RAG, agents"}
+{"k":426,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_researcher","note":"chercheur ML, framework agentique de recherche ML"}
+{"k":427,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"technicien atelier, aucune mention IA"}
+{"k":428,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"référent informatique ; accompagnement IA est une mission parmi d'autres"}
+{"k":429,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"ingénieur électricité HTB, pas d'IA"}
+{"k":430,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"data scientist, cas d'usage IA, prototypes Gemini"}
+{"k":431,"is_tech":true,"ai_any":true,"ai_core":false,"canon":null,"note":"IA citée dans l'expertise de la division employeur"}
+{"k":432,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_consultant","note":"consultant IA générative et agentique, agents et prompts"}
+{"k":433,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"data_scientist","note":"data scientist, modèles machine learning et deep learning"}
+{"k":434,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_consultant","note":"conseil adoption Copilot M365 et IA générative"}
+{"k":435,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":436,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":437,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"fiscaliste ; intégration de l'IA dans les pratiques"}
+{"k":438,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"automatisme industriel, pas d'IA"}
+{"k":439,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_consultant","note":"consultant AI et Data Platform, GenAI, plateformes agentiques"}
+{"k":440,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":441,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"commercial, aucune mention IA"}
+{"k":442,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"pricing ; offres intégrant l'IA, rôle non technique"}
+{"k":443,"is_tech":true,"ai_any":true,"ai_core":true,"canon":"ai_engineer","note":"Data & AI engineer, agents, LLMOps, IA générative"}
+{"k":444,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"community manager ; IA citée parmi les outils"}
+{"k":445,"is_tech":true,"ai_any":false,"ai_core":false,"canon":null,"note":"intégration applicative, aucune mention IA"}
+{"k":446,"is_tech":false,"ai_any":true,"ai_core":false,"canon":null,"note":"franchisé immobilier ; IA citée parmi les outils offerts"}
+{"k":447,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"copilote stratégique est une métaphore, pas d'IA"}
+{"k":448,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}
+{"k":449,"is_tech":false,"ai_any":false,"ai_core":false,"canon":null,"note":"aucune mention IA"}

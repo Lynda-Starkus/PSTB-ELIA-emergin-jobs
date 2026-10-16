@@ -1,0 +1,50 @@
+{"k": 0, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 1, "is_tech": true, "ai_any": true, "ai_core": false, "canon": "data_analyst", "note": "contribution aux projets data et IA, cas d'usage"}
+{"k": 2, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "computer_vision_engineer", "note": "ingénieur IA, ML/DL, traitement d'images"}
+{"k": 3, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 4, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 5, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "intégrer des agents IA au développement"}
+{"k": 6, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 7, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "déploie des outils IA, service client"}
+{"k": 8, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "IA citée parmi expertises de l'employeur"}
+{"k": 9, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "data_scientist", "note": "modèles ML/DL, NLP, LLM"}
+{"k": 10, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ml_engineer", "note": "modèles machine learning, IA appliquée à la santé"}
+{"k": 11, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_architect", "note": "architecte GenAI, RAG, LLM"}
+{"k": 12, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "ITM AI est un nom d'enseigne"}
+{"k": 13, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 14, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 15, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "release manager d'une équipe AI Engineering Solutions"}
+{"k": 16, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "data_scientist", "note": "modèles prédictifs et algorithmes de machine learning"}
+{"k": 17, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 18, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 19, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 20, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "design avec IA générative et agents IA"}
+{"k": 21, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 22, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "IA seulement dans présentation générique de l'entreprise"}
+{"k": 23, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 24, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 25, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "outils avec IA proposés par le réseau"}
+{"k": 26, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "contenus pédagogiques enrichis par IA générative"}
+{"k": 27, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "soutien d'une IA pour questionnaires patients"}
+{"k": 28, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 29, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 30, "is_tech": true, "ai_any": false, "ai_core": false, "canon": "data_analyst", "note": "aucune mention IA"}
+{"k": 31, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "data_scientist", "note": "bibliothèques machine learning, prévision"}
+{"k": 32, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 33, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "industrialise solutions IA classiques et génératives, RAG"}
+{"k": 34, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "IA citée comme contexte de la DSI"}
+{"k": 35, "is_tech": false, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "déploie cas d'usage IA dans équipe marketing"}
+{"k": 36, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_architect", "note": "architectures IA agentic et GenAI"}
+{"k": 37, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 38, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 39, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "LLM, RAG, LLMOps, IA générative"}
+{"k": 40, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 41, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 42, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 43, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 44, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 45, "is_tech": true, "ai_any": false, "ai_core": false, "canon": "data_analyst", "note": "aucune mention IA"}
+{"k": 46, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "utilisation d'outils d'IA et automatisation"}
+{"k": 47, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 48, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "aucune mention IA"}
+{"k": 49, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "GenAI et agentic engineer, LLM, multi-agents"}

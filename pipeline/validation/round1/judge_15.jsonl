@@ -1,0 +1,50 @@
+{"k": 750, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "AI project lead structuring AI initiatives for developers"}
+{"k": 751, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 752, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "IA & Data only in employer expertise list; sales role unrelated"}
+{"k": 753, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 754, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 755, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 756, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "data_scientist", "note": "Reference for AI/ML/GenAI in AI-focused squad"}
+{"k": 757, "is_tech": true, "ai_any": false, "ai_core": false, "canon": "data_scientist", "note": "No AI mention; test automation, dashboards"}
+{"k": 758, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 759, "is_tech": false, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "Change management for AI adoption in AI direction"}
+{"k": 760, "is_tech": true, "ai_any": false, "ai_core": false, "canon": "data_analyst", "note": "BI reporting, no AI"}
+{"k": 761, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "Recruiter given an AI tool; context mention"}
+{"k": 762, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 763, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "Research engineer applying pretrained AI models to text/image"}
+{"k": 764, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "Accountant expected to automate with AI; tool use"}
+{"k": 765, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 766, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 767, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 768, "is_tech": true, "ai_any": true, "ai_core": false, "canon": "data_engineer", "note": "AI in title but tasks are dashboarding tools"}
+{"k": 769, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_researcher", "note": "Designs LLM agents, benchmarks, research prototypes"}
+{"k": 770, "is_tech": false, "ai_any": true, "ai_core": true, "canon": "ai_sales", "note": "Sells Nexora Business AI solution"}
+{"k": 771, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "AI only listed among agency tools"}
+{"k": 772, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "Data lake project manager, no AI"}
+{"k": 773, "is_tech": true, "ai_any": true, "ai_core": false, "canon": "data_scientist", "note": "Daily AI use required; analytics focus"}
+{"k": 774, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "Product tester using AI tools daily"}
+{"k": 775, "is_tech": true, "ai_any": true, "ai_core": false, "canon": null, "note": "Security evaluation; AI only one product type"}
+{"k": 776, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "Cooling commissioning for AI data centers; context"}
+{"k": 777, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "AI software engineer apprentice, TensorFlow"}
+{"k": 778, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 779, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 780, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 781, "is_tech": false, "ai_any": true, "ai_core": false, "canon": null, "note": "Dentist; clinical AI tool in centre equipment"}
+{"k": 782, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_architect", "note": "Architect of agentic AI solutions, LangChain, agents"}
+{"k": 783, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_researcher", "note": "AI research engineer at AI research lab"}
+{"k": 784, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "Tech lead GenAI, agents, RAG, LLMOps"}
+{"k": 785, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 786, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "AI strategy and transformation consulting"}
+{"k": 787, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "genai_engineer", "note": "GenAI/RAG data scientist industrialising LLM solution"}
+{"k": 788, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 789, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 790, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_product_manager", "note": "Product manager for AI products, GenAI, agents"}
+{"k": 791, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 792, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_other", "note": "AI referent building company AI function"}
+{"k": 793, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 794, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 795, "is_tech": false, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 796, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
+{"k": 797, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_consultant", "note": "Junior consultant AI, data and Copilot agents"}
+{"k": 798, "is_tech": true, "ai_any": true, "ai_core": true, "canon": "ai_engineer", "note": "Deep learning, LLM, OCR pipelines"}
+{"k": 799, "is_tech": true, "ai_any": false, "ai_core": false, "canon": null, "note": "No AI mention"}
